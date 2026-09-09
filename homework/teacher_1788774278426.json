@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-09T07:57:38.320Z",
+  "updatedAt": "2026-09-09T09:34:57.136Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -39,7 +39,7 @@
         {
           "date": "2026-09-07",
           "content": "1.1.1은 2차까지/1.2.1까지 개념준비/",
-          "score": null,
+          "score": "50",
           "comment": ""
         }
       ]
@@ -54,7 +54,7 @@
         {
           "date": "2026-09-07",
           "content": "2.2.2까지 개념준비/",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -69,8 +69,8 @@
         {
           "date": "2026-09-07",
           "content": "1.3.1 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "과정 기록 안됨"
         }
       ]
     },
@@ -84,8 +84,8 @@
         {
           "date": "2026-09-07",
           "content": "1.1.2까지 2차까지/1.1.3 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "외심개념 살짝 미흡"
         }
       ]
     },
@@ -99,8 +99,8 @@
         {
           "date": "2026-09-07",
           "content": "3.2.3까지 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "반비례 개념 살짝 미흡"
         }
       ]
     }
