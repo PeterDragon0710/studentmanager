@@ -1,0 +1,27 @@
+{
+  "teacherName": "집",
+  "updatedAt": "2026-09-09T01:57:08.793Z",
+  "students": [
+    {
+      "linkId": "stu_ed9v3241mttg78s9",
+      "name": "김시준",
+      "day": "월수금",
+      "part": "2부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-07",
+          "content": "가나디 키우기\n공룡키우기\n사랑해주기",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-09",
+          "content": "행복하기",
+          "score": "과제안함",
+          "comment": "난 널 믿었다. 그렇게"
+        }
+      ]
+    }
+  ]
+}
