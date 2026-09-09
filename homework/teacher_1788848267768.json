@@ -1,5 +1,126 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-09T06:38:00.355Z",
-  "students": []
+  "updatedAt": "2026-09-09T06:39:03.392Z",
+  "students": [
+    {
+      "linkId": "stu_lpymedwcmttq751b",
+      "name": "김가은",
+      "day": "월수금",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_4x3hmuormttq7nop",
+      "name": "김서윤",
+      "day": "월수금",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_vx12thyumttq7s49",
+      "name": "김주하A",
+      "day": "월수금",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_nc54rhf6mttq82zo",
+      "name": "서지효",
+      "day": "월수금",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_ih5i8m4amttq8fj2",
+      "name": "이유준",
+      "day": "월수금",
+      "part": "1부",
+      "school": "다원초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_dq22hfagmttq8kl2",
+      "name": "정시현",
+      "day": "월수금",
+      "part": "1부",
+      "school": "다원초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_9gwn5sn3mttq8oco",
+      "name": "정윤서",
+      "day": "월수금",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_cnit5f8cmttq8vdk",
+      "name": "최은우",
+      "day": "월수금",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    }
+  ]
 }
