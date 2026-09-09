@@ -1,6 +1,6 @@
 {
   "teacherName": "집",
-  "updatedAt": "2026-09-09T02:29:23.971Z",
+  "updatedAt": "2026-09-09T02:32:12.088Z",
   "students": [
     {
       "linkId": "stu_ed9v3241mttg78s9",
@@ -26,6 +26,12 @@
           "content": "널 사랑해",
           "score": "80",
           "comment": "너도 사랑해slslsl"
+        },
+        {
+          "date": "2026-09-01",
+          "content": "너의 이름을 알려줘",
+          "score": "90",
+          "comment": ""
         }
       ]
     }
