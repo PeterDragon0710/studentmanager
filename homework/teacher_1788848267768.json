@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-09T10:14:02.075Z",
+  "updatedAt": "2026-09-09T10:15:45.989Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -215,6 +215,21 @@
     {
       "linkId": "stu_71j5r71gmttxy8ut",
       "name": "복건우",
+      "day": "월금",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_t3ddsozvmtty0h1b",
+      "name": "장민혁",
       "day": "월금",
       "part": "3부",
       "school": "다원중",
