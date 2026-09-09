@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-09T09:50:14.102Z",
+  "updatedAt": "2026-09-09T10:03:29.561Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -135,6 +135,96 @@
         {
           "date": "2026-09-09",
           "content": "3단원평가/평가대비프린트/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_67ndupelmttxkot5",
+      "name": "김다율",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백중",
+      "records": [
+        {
+          "date": "2026-09-08",
+          "content": "3.2.1은 2차까지/3.2.2 개념준비/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_nywarztnmttxkot5",
+      "name": "박예지",
+      "day": "화목토",
+      "part": "2부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-08",
+          "content": "1.3.2까지 개념준비/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_6k4ssbf5mttxkot5",
+      "name": "서단비",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백중",
+      "records": [
+        {
+          "date": "2026-09-08",
+          "content": "4.1.1 개념듣고 2차까지/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_apkzbhecmttxkot5",
+      "name": "이세린",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백중",
+      "records": [
+        {
+          "date": "2026-09-05",
+          "content": "2.3.1 2차까지/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_huvc3bswmttxkot5",
+      "name": "이소민",
+      "day": "화목토",
+      "part": "2부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-08",
+          "content": "1.3.2까지 개념듣고 1차까지/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_oukh9pg9mttxkot5",
+      "name": "이유선",
+      "day": "화목토",
+      "part": "2부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-08",
+          "content": "1.3.1은 2차까지/1.3.2 개념준비/",
           "score": null,
           "comment": ""
         }
