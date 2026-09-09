@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-09T07:53:10.264Z",
+  "updatedAt": "2026-09-09T08:11:24.653Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -117,6 +117,96 @@
         {
           "date": "2026-09-09",
           "content": "(6-1) 1.1.1~1.1.3 개념영상,개념유형",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_3smo7413mtttkjtw",
+      "name": "김경훈",
+      "day": "월수금",
+      "part": "2부",
+      "school": "늘봄초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_jfw926mdmtttkju5",
+      "name": "김윤송",
+      "day": "월수금",
+      "part": "2부",
+      "school": "영천초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_upo38fdtmtttkju5",
+      "name": "백시준",
+      "day": "월수금",
+      "part": "2부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_hfwy1nb2mtttkju5",
+      "name": "성하린",
+      "day": "월수금",
+      "part": "2부",
+      "school": "다원초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_db5emmzgmtttkju5",
+      "name": "송세희",
+      "day": "월수금",
+      "part": "2부",
+      "school": "영천초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_vierhhegmtttkju5",
+      "name": "안예은",
+      "day": "월수금",
+      "part": "2부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "과제",
           "score": null,
           "comment": ""
         }
