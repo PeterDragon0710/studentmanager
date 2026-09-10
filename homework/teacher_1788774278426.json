@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-09T10:03:29.561Z",
+  "updatedAt": "2026-09-10T06:32:35.848Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -13,18 +13,6 @@
           "date": "2026-09-07",
           "content": "3.3.2까지 개념준비",
           "score": null,
-          "comment": ""
-        },
-        {
-          "date": "2026-09-09",
-          "content": "어디까지 풀어오기",
-          "score": "과제안함",
-          "comment": ""
-        },
-        {
-          "date": "2026-09-09",
-          "content": "나나나나나",
-          "score": "과제안함",
           "comment": ""
         },
         {
