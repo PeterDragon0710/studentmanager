@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-10T04:46:13.488Z",
+  "updatedAt": "2026-09-10T09:50:22.933Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -207,6 +207,111 @@
         {
           "date": "2026-09-09",
           "content": "3단원 평가대비 프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_p7pn7uz0mtvcjoic",
+      "name": "곽나율",
+      "day": "화목토",
+      "part": "2부",
+      "school": "영천초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "2.2.3 (2차) / 2단원 평가대비 프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_nu8buj3fmtvcjoic",
+      "name": "배남주",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "1단원 그린챌린지(프린트)",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_r3xtz9ajmtvcjoic",
+      "name": "심하윤",
+      "day": "화목토",
+      "part": "2부",
+      "school": "영천초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "1.1.1~1.1.2 (2차) / 1.2.1 개념영상,개념유형",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_uu1pejk9mtvcjoic",
+      "name": "유이현",
+      "day": "화목토",
+      "part": "2부",
+      "school": "다원초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "2.1.1~2.1.2 (2차) / 2.1.3 개념영상,개념유형",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_a62k3ma5mtvcjoic",
+      "name": "이소민",
+      "day": "화목토",
+      "part": "2부",
+      "school": "영천초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "1.1.1~1.1.2 (2차) / 과제프린트(추가연습)",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_rqs0f4kbmtvcjoic",
+      "name": "이아라",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "3.2.3 (2차) / 3단원 평가대비 프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_y9m9gjswmtvcjoic",
+      "name": "임서준",
+      "day": "화목토",
+      "part": "2부",
+      "school": "다원초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "1.3.1~1.3.2 (2차) / 과제프린트(추가연습)",
           "score": null,
           "comment": ""
         }
