@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-09T12:50:45.984Z",
+  "updatedAt": "2026-09-10T04:46:13.488Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -251,7 +251,7 @@
       "records": [
         {
           "date": "2026-09-09",
-          "content": "시험대비교재 3회차(1.1 / 1.2) / 과제프린트",
+          "content": "과제",
           "score": null,
           "comment": ""
         }
@@ -266,7 +266,7 @@
       "records": [
         {
           "date": "2026-09-09",
-          "content": "시험대비교재 3회차(1.1 / 1.2) / 과제프린트",
+          "content": "과제",
           "score": null,
           "comment": ""
         }
