@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-10T09:50:22.933Z",
+  "updatedAt": "2026-09-10T11:30:51.735Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -356,7 +356,7 @@
       "records": [
         {
           "date": "2026-09-09",
-          "content": "과제",
+          "content": "시험대비교재 3회차 (1.1삼각형/1.2사각형) / 과제프린트",
           "score": null,
           "comment": ""
         }
@@ -371,7 +371,22 @@
       "records": [
         {
           "date": "2026-09-09",
-          "content": "과제",
+          "content": "시험대비교재 3회차 (1.1삼각형/1.2사각형) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_jysnfm7qmtvg4wd3",
+      "name": "이재인",
+      "day": "수토",
+      "part": "3부",
+      "school": "치동중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "시험대비교재 3회차 (1.1삼각형/1.2사각형) / 과제프린트",
           "score": null,
           "comment": ""
         }
