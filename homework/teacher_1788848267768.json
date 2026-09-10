@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-10T11:38:52.156Z",
+  "updatedAt": "2026-09-10T12:47:49.298Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -342,6 +342,96 @@
         {
           "date": "2026-09-09",
           "content": "과제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_cpku1cgamtvivvaq",
+      "name": "권유빈",
+      "day": "화목",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "시험대비교재 3,4회차(1.2사각형의 성질) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_czxpseg0mtvivvaq",
+      "name": "박세은",
+      "day": "화목",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "시험대비교재 3회차(1.1삼각형 / 1.2사각형) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_1gl8hr0lmtvivvaq",
+      "name": "윤아림",
+      "day": "화목",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "시험대비교재 3회차(1.1삼각형 / 1.2사각형) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_my4u7aismtvivvaq",
+      "name": "은서현",
+      "day": "화목",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "시험대비교재 3회차(1.1삼각형 / 1.2사각형) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_qy3l7m7mmtvivvaq",
+      "name": "이서준",
+      "day": "화목",
+      "part": "3부",
+      "school": "치동중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "시험대비교재 1,2,3회차(1.2사각형의 성질) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_0tllo74zmtvivvaq",
+      "name": "장한예",
+      "day": "화목",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "시험대비교재 3회차(1.1삼각형 / 1.2사각형) / 과제프린트",
           "score": null,
           "comment": ""
         }
