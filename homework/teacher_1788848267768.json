@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-10T11:36:25.487Z",
+  "updatedAt": "2026-09-10T11:38:52.156Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -385,7 +385,7 @@
       "school": "치동중",
       "records": [
         {
-          "date": "2026-09-10",
+          "date": "2026-09-09",
           "content": "시험대비교재 3회차 (1.1삼각형/1.2사각형) / 과제프린트",
           "score": null,
           "comment": ""
