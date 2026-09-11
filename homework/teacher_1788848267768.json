@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-11T09:33:29.467Z",
+  "updatedAt": "2026-09-11T11:39:29.627Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -402,6 +402,66 @@
       ]
     },
     {
+      "linkId": "stu_npwqvlwumtwvvumz",
+      "name": "김주원B",
+      "day": "월금",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-11",
+          "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_n5h0kcfdmtwvvumz",
+      "name": "김호진",
+      "day": "월금",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-11",
+          "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_gctshithmtwvvumz",
+      "name": "박지율",
+      "day": "월금",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-11",
+          "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_g3a6i7qkmtwvvumz",
+      "name": "방승민",
+      "day": "월금",
+      "part": "3부",
+      "school": "한백중",
+      "records": [
+        {
+          "date": "2026-09-11",
+          "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
       "linkId": "stu_71j5r71gmttxy8ut",
       "name": "복건우",
       "day": "월금",
@@ -411,6 +471,27 @@
         {
           "date": "2026-09-09",
           "content": "과제",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-09-11",
+          "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_0cxtzdojmtwvvumz",
+      "name": "안서현",
+      "day": "월금",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-11",
+          "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
           "score": null,
           "comment": ""
         }
@@ -426,6 +507,12 @@
         {
           "date": "2026-09-09",
           "content": "과제",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-09-11",
+          "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
           "score": null,
           "comment": ""
         }
