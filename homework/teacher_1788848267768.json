@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-11T08:06:21.252Z",
+  "updatedAt": "2026-09-11T08:07:33.560Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -255,7 +255,7 @@
         {
           "date": "2026-09-09",
           "content": "3단원 평가대비 프린트",
-          "score": "90",
+          "score": "100",
           "comment": ""
         }
       ]
