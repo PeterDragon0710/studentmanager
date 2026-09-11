@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-11T05:40:08.594Z",
+  "updatedAt": "2026-09-11T05:42:16.681Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -277,7 +277,7 @@
       "name": "이예본",
       "day": "화목",
       "part": "3부",
-      "school": "",
+      "school": "한백중",
       "records": [
         {
           "date": "2026-09-10",
@@ -292,7 +292,7 @@
       "name": "이태규",
       "day": "화목",
       "part": "3부",
-      "school": "",
+      "school": "치동중",
       "records": [
         {
           "date": "2026-09-10",
