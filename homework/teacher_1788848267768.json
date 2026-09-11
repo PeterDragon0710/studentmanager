@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-11T07:16:50.688Z",
+  "updatedAt": "2026-09-11T07:18:13.735Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -73,7 +73,7 @@
           "date": "2026-09-09",
           "content": "과제프린트(2단원 분수연습)",
           "score": "90",
-          "comment": ""
+          "comment": "프린트에도 채점표시 필요!"
         }
       ]
     },
