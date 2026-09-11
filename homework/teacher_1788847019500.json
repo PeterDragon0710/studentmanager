@@ -1,5 +1,261 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-11T05:26:23.982Z",
-  "students": []
+  "updatedAt": "2026-09-11T05:38:52.084Z",
+  "students": [
+    {
+      "linkId": "stu_gjymkpehmtwj0303",
+      "name": "손세인",
+      "day": "월수금",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "프린트 오답 고쳐오기.",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_11k7s7g2mtwj0303",
+      "name": "유호건",
+      "day": "월수금",
+      "part": "1부",
+      "school": "다원초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "4.1.1 2차학습까지. 4.1.2 개념학습, 필수예제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_8os5o82smtwj0303",
+      "name": "윤예현",
+      "day": "월수금",
+      "part": "1부",
+      "school": "다원초",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "2.1.2 2차학습, 2.2.1, 2.2.2 개념학습 2.2.1 필수예제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_ujd9uulumtwj0303",
+      "name": "김소율",
+      "day": "월수금",
+      "part": "2부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "2.3.1 필수예제까지",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_yiel6850mtwj0303",
+      "name": "이민서",
+      "day": "월수금",
+      "part": "2부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "1.2.2 2차학습, 1.3.1 필수예제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_kbrfg8gdmtwj0304",
+      "name": "최수연",
+      "day": "월수금",
+      "part": "2부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-09",
+          "content": "1.3.1 1차학습까지",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_a9tuuscwmtwj0304",
+      "name": "박지웅",
+      "day": "화목토",
+      "part": "1부",
+      "school": "다원초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "2.2.1, 2.2.2 개념학습 및 필수예제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_l9lhwqw8mtwj0304",
+      "name": "서예림",
+      "day": "화목토",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "1단원그린챌린지, 2.2.1, 2.2.2 개념학습 및 필수예제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_rn01fv96mtwif1vb",
+      "name": "윤시완",
+      "day": "화목토",
+      "part": "1부",
+      "school": "영천초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "3.1.2 2차학습까지",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_xxk5rbpmmtwj0304",
+      "name": "이라온",
+      "day": "화목토",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "4.1.2 2차학습까지 풀어오기, 4.2.1, 4.2.2, 4.2.3 개념학습하고 필수예제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_j26n4sbsmtwj0304",
+      "name": "이채민",
+      "day": "화목토",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "3.1.2, 3.1.3 개념학습 후 필수예제",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_qiot2ll1mtwj0304",
+      "name": "황지우",
+      "day": "화목토",
+      "part": "1부",
+      "school": "한백초",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "2단원평가재시험 오답고치기 및 오답유사, 프린트 풀고 채점해오기.",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_smdtwxyfmtwj0304",
+      "name": "신이준",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "3단원그린챌린지",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_6g4li75nmtwj0304",
+      "name": "오한울",
+      "day": "화목토",
+      "part": "2부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "2.2.3 2차학습까지 풀고 오답유사까지",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_9petigvnmtwj0304",
+      "name": "윤준우",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "1.1.2, 1.2.1 개념학습",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_3wrtoi3bmtwj0304",
+      "name": "이승희",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "2단원 안되어있는 오답유사 모두 풀어오기, 2.3.3 2차학습까지 안되어있는 부분 모두 풀어오기.",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_nmg8p4p6mtwj0304",
+      "name": "조현성",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백중",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "1단원 안되어있는 오답유사 및 오답 고치기",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    }
+  ]
 }
