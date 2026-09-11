@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-11T05:38:52.084Z",
+  "updatedAt": "2026-09-11T05:40:08.594Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -252,6 +252,51 @@
         {
           "date": "2026-09-10",
           "content": "1단원 안되어있는 오답유사 및 오답 고치기",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_bifbta5wmtwj1q1e",
+      "name": "곽서은",
+      "day": "월금",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-09-07",
+          "content": "시험대비교재 3회차 풀어오기",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_j8vrguf0mtwj1q1e",
+      "name": "이예본",
+      "day": "화목",
+      "part": "3부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "시험대비교재 4회차, 실전모의고사1회 풀어오기.",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_zms52jo6mtwj1q1e",
+      "name": "이태규",
+      "day": "화목",
+      "part": "3부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-10",
+          "content": "시험대비교재 실전모의고사1회, 4회차문제 풀어오기.",
           "score": null,
           "comment": ""
         }
