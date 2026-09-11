@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-10T09:46:20.925Z",
+  "updatedAt": "2026-09-11T07:59:37.813Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -12,20 +12,8 @@
         {
           "date": "2026-09-07",
           "content": "3.3.2까지 개념준비",
-          "score": null,
-          "comment": ""
-        },
-        {
-          "date": "2026-09-09",
-          "content": "어디까지 풀어오기",
-          "score": "과제안함",
-          "comment": ""
-        },
-        {
-          "date": "2026-09-09",
-          "content": "나나나나나",
-          "score": "과제안함",
-          "comment": ""
+          "score": "60",
+          "comment": "연립방정식 설명 안됨"
         },
         {
           "date": "2026-09-09",
