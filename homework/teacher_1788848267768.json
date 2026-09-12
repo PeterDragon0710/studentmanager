@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-12T00:05:19.065Z",
+  "updatedAt": "2026-09-12T00:33:47.693Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -321,7 +321,7 @@
         {
           "date": "2026-09-10",
           "content": "1단원 그린챌린지(프린트)",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
