@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-12T02:07:28.483Z",
+  "updatedAt": "2026-09-12T02:08:41.411Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -648,8 +648,8 @@
         {
           "date": "2026-09-09",
           "content": "시험대비교재 3회차 (1.1삼각형/1.2사각형) / 과제프린트",
-          "score": "80",
-          "comment": ""
+          "score": "90",
+          "comment": "교재, 프린트에도 채점 표시 해야 됨!"
         }
       ]
     },
