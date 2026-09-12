@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-11T12:42:33.745Z",
+  "updatedAt": "2026-09-12T01:52:45.486Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -224,6 +224,12 @@
           "content": "3단원그린챌린지",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-09-12",
+          "content": "1.1.1 2차학습까지",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -237,6 +243,12 @@
         {
           "date": "2026-09-10",
           "content": "2.2.3 2차학습까지 풀고 오답유사까지",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-09-12",
+          "content": "2.2.5 1차학습까지",
           "score": null,
           "comment": ""
         }
@@ -254,6 +266,33 @@
           "content": "1.1.2, 1.2.1 개념학습",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-09-12",
+          "content": "1.2.1, 1.2.2 개념학습",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_3kvu0d1kmtxn55xz",
+      "name": "이권후",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백중",
+      "records": [
+        {
+          "date": "2026-09-05",
+          "content": "1단원 개념공부",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-09-12",
+          "content": "1단원평가대비 오답유사까지",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -269,6 +308,12 @@
           "content": "2단원 안되어있는 오답유사 모두 풀어오기, 2.3.3 2차학습까지 안되어있는 부분 모두 풀어오기.",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-09-12",
+          "content": "2단원평가대비 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -282,6 +327,12 @@
         {
           "date": "2026-09-10",
           "content": "1단원 안되어있는 오답유사 및 오답 고치기",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-09-12",
+          "content": "1단원평가대비 풀고 오답유사까지",
           "score": null,
           "comment": ""
         }
