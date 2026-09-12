@@ -137,10 +137,10 @@
   function warningBanner(records){
     const avg = recentMonthAverage(records);
     if(avg == null) return '';
-    if(avg < 60){
+    if(avg < 50){
       return `<div class="warning-banner danger">최근 과제 성실도가 매우 '위험'합니다. 지속될 경우 추가 등원 및 학부모상담이 이뤄질 수 있으므로 각별히 신경써주세요.</div>`;
     }
-    if(avg < 80){
+    if(avg < 75){
       return `<div class="warning-banner caution">최근 과제 성실도가 다소 미흡하여 '주의' 단계입니다. 과제에 조금 더 신경 써주세요.</div>`;
     }
     return `<div class="warning-banner good">최근 한달간 과제를 매우 성실하게 잘 해오고 있어요!</div>`;
