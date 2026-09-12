@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-11T09:43:50.405Z",
+  "updatedAt": "2026-09-12T01:13:18.206Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -180,7 +180,7 @@
         {
           "date": "2026-09-10",
           "content": "3.2.2까지 개념준비, 필수, 1차까지만/\n과제 안 될시 남음/",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -201,7 +201,7 @@
         {
           "date": "2026-09-10",
           "content": "1.3.2까지 개념준비 후, 필수, 1차까지/",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -222,8 +222,8 @@
         {
           "date": "2026-09-10",
           "content": "4.2.2 2차까지/4.2.3 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "오답정리 미흡"
         }
       ]
     },
@@ -237,7 +237,7 @@
         {
           "date": "2026-09-05",
           "content": "2.3.1 2차까지/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -258,7 +258,7 @@
         {
           "date": "2026-09-10",
           "content": "1.3.3은 2차까지/1단원평가/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -279,8 +279,8 @@
         {
           "date": "2026-09-10",
           "content": "1.3.2까지 2차까지/1.3.3 진행예정/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "오답유사 하나 안됨."
         }
       ]
     }
