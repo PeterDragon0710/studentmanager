@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-14T07:46:10.764Z",
+  "updatedAt": "2026-09-14T07:52:16.595Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -19,6 +19,12 @@
           "date": "2026-09-11",
           "content": "개념유형 문제 다 풀어오기.",
           "score": "50",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-14",
+          "content": "약수 프린트, 2.1.2 배수 개념학습",
+          "score": null,
           "comment": ""
         }
       ]
@@ -41,6 +47,12 @@
           "content": "4.2.1, 4.2.2 필수예제",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-09-14",
+          "content": "4.2.2 2차학습, 4단원그린챌린지",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -55,6 +67,12 @@
           "date": "2026-09-09",
           "content": "2.1.2 2차학습, 2.2.1, 2.2.2 개념학습 2.2.1 필수예제",
           "score": "80",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-14",
+          "content": "2.2.2 필수예제까지 풀어오기.",
+          "score": null,
           "comment": ""
         }
       ]
