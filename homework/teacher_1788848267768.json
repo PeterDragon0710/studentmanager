@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-14T06:31:45.883Z",
+  "updatedAt": "2026-09-14T06:37:30.451Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -18,7 +18,7 @@
         {
           "date": "2026-09-11",
           "content": "1단원 평가대비 프린트",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -39,7 +39,7 @@
         {
           "date": "2026-09-11",
           "content": "2.1.1 (1차, 2차학습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -60,7 +60,7 @@
         {
           "date": "2026-09-11",
           "content": "6단원 평가대비 / 학기평가 대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -81,7 +81,7 @@
         {
           "date": "2026-09-11",
           "content": "5.2.1 (2차) / 5.2.2 개념영상,개념유형(영상 최소2번 시청)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -102,7 +102,7 @@
         {
           "date": "2026-09-11",
           "content": "2.1.1 (1차, 2차학습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -123,7 +123,7 @@
         {
           "date": "2026-09-11",
           "content": "1.1.1~1.1.3 (2차) / 1.2.1~1.2.3 개념영상,개념유형",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -144,7 +144,7 @@
         {
           "date": "2026-09-11",
           "content": "3.1.1부터 3.2.1까지 1차, 2차학습",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -165,7 +165,7 @@
         {
           "date": "2026-09-11",
           "content": "1.1.1~1.1.2 (2차학습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
