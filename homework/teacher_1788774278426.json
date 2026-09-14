@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-12T01:49:26.601Z",
+  "updatedAt": "2026-09-14T05:20:20.138Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -180,7 +180,7 @@
         {
           "date": "2026-09-10",
           "content": "3.2.2까지 개념준비, 필수, 1차까지만/\n과제 안 될시 남음/",
-          "score": "80",
+          "score": "100",
           "comment": ""
         },
         {
@@ -212,7 +212,7 @@
         },
         {
           "date": "2026-09-12",
-          "content": "2.1.1 개념준비/",
+          "content": "1단원 재시/재시대비프린트/\n2.1.1 개념준비/",
           "score": null,
           "comment": ""
         }
@@ -287,7 +287,7 @@
         },
         {
           "date": "2026-09-12",
-          "content": "2.1.1 개념준비/",
+          "content": "1단원 재시/재시대비프린트/\n2.1.1 개념준비/",
           "score": null,
           "comment": ""
         }
