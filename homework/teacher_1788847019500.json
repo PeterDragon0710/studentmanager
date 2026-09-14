@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-12T04:27:13.072Z",
+  "updatedAt": "2026-09-14T07:46:10.764Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -18,7 +18,7 @@
         {
           "date": "2026-09-11",
           "content": "개념유형 문제 다 풀어오기.",
-          "score": null,
+          "score": "50",
           "comment": ""
         }
       ]
@@ -39,7 +39,7 @@
         {
           "date": "2026-09-11",
           "content": "4.2.1, 4.2.2 필수예제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -54,7 +54,7 @@
         {
           "date": "2026-09-09",
           "content": "2.1.2 2차학습, 2.2.1, 2.2.2 개념학습 2.2.1 필수예제",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
