@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-09-15T05:34:44.884Z",
+  "updatedAt": "2026-09-15T05:49:42.201Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -129,6 +129,96 @@
         {
           "date": "2026-09-15",
           "content": "<진도>\n[초등4-2] 5단원평가(L2) 3회차\n[초등4-2] L3 / 1.2.1~1.2.3 / 필수~2차",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_drnz3bt7mu295fax",
+      "name": "안준성(늘봄초6)",
+      "day": "화목토",
+      "part": "2부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-15",
+          "content": "<진도>\n[초등6-2] 2단원평가(L3) 2회차\n[초등6-2] L3 / 3.2.2~3.2.3 / 필수~2차",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_ny1qocm4mu295fax",
+      "name": "오연서(한백초6)",
+      "day": "화목토",
+      "part": "2부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-15",
+          "content": "<진도>\n[중등1-1] L2 / 2.1.4 / 필수~2차",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_3bvswkrmmu295fax",
+      "name": "유준서(다원초6)",
+      "day": "화목토",
+      "part": "2부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-15",
+          "content": "<진도>\n[중등2-1] 학기테스트(L2) 1회차\n[중등2-1] 1단원 그린챌린지(2026.09.15)",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_gbw3e6klmu295fax",
+      "name": "이지수(청목초6)",
+      "day": "화목토",
+      "part": "2부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-15",
+          "content": "[중등1-1] L2 / 1.2.1~1.3.1 / 필수~2차",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_n9v8cc4xmu295fax",
+      "name": "임재하(한백초6)",
+      "day": "화목토",
+      "part": "2부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-15",
+          "content": "[중등1-1] L2 / 1.2.1~1.3.1 / 필수~2차",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_wti2xdlfmu295fax",
+      "name": "임지수(영천초6)",
+      "day": "화목토",
+      "part": "2부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-15",
+          "content": "[초등6-2] L1 / 4.1.3~4.2.2 / 필수~2차",
           "score": null,
           "comment": ""
         }
