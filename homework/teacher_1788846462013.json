@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-09-15T05:20:13.368Z",
+  "updatedAt": "2026-09-15T05:33:44.757Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -61,8 +61,8 @@
       "school": "",
       "records": [
         {
-          "date": "2026-09-09",
-          "content": "[초등5-1] L2 / 6.4.1~6.4.2 / 필수~1차",
+          "date": "2026-09-15",
+          "content": "<진도>\n[초등5-1] 6단원평가(L2) 1회차\n[초등5-1] L3 / 1.1.1~1.1.3 / 필수~2차",
           "score": null,
           "comment": ""
         }
@@ -76,8 +76,8 @@
       "school": "",
       "records": [
         {
-          "date": "2026-09-09",
-          "content": "[초등4-2] 개념 / 1.2.1~1.2.2 / 개념영상 및 개념유형\n[초등4-2] L3 /  1.1.2 / 필수~2차\n성격 TEST",
+          "date": "2026-09-15",
+          "content": "<진도>\n[초등4-2] L3 / 1.2.3~2.1.2 / 필수~2차",
           "score": null,
           "comment": ""
         }
@@ -91,8 +91,8 @@
       "school": "",
       "records": [
         {
-          "date": "2026-09-09",
-          "content": "[초등4-2] L2 / 1.2.4 / 1차~2차\n[초등4-2] 개념 / 2.1.1 / 개념영상 및 개념유형",
+          "date": "2026-09-15",
+          "content": "<진도>\n[초등4-2] 1단원평가(L2) 1회차\n[초등4-2] L2 / 2..1.2~2.2.2 / 필수~2차",
           "score": null,
           "comment": ""
         }
@@ -106,8 +106,8 @@
       "school": "",
       "records": [
         {
-          "date": "2026-09-09",
-          "content": "[초등4-1] L2 / 1단원 / 학습지\n[초등4-1] L2 / 3.2.1 / 필수~1차",
+          "date": "2026-09-15",
+          "content": "<진도>\n[초등4-1] L2 / 3.2.2 / 필수~2차\n[초등4-1] L2 / 2.2.3~3.1.2 / 학습지",
           "score": null,
           "comment": ""
         }
@@ -125,11 +125,17 @@
           "content": "[초등4-2] L2 / 4~6단원 / 학습지",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-09-15",
+          "content": "<진도>\n[초등4-2] 5단원평가(L2) 3회차\n[초등4-2] L3 / 1.2.1~1.2.3 / 필수~2차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
     {
-      "linkId": "stu_plsjlwd7mu283igo",
+      "linkId": "stu_vfm2xpsomu28kwj9",
       "name": "박세은A",
       "day": "월금",
       "part": "3부",
@@ -144,7 +150,7 @@
       ]
     },
     {
-      "linkId": "stu_7yxpu9utmu283igo",
+      "linkId": "stu_cqkrwepcmu28kwj9",
       "name": "임한울",
       "day": "월금",
       "part": "3부",
@@ -159,7 +165,7 @@
       ]
     },
     {
-      "linkId": "stu_gk06s8mcmu283igo",
+      "linkId": "stu_3wm15colmu28kwj9",
       "name": "전채범",
       "day": "월금",
       "part": "3부",
@@ -174,7 +180,7 @@
       ]
     },
     {
-      "linkId": "stu_64mb65mhmu283igo",
+      "linkId": "stu_jzkrzil0mu28kwj9",
       "name": "조형래",
       "day": "월금",
       "part": "3부",
