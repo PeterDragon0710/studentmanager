@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-15T08:21:24.799Z",
+  "updatedAt": "2026-09-15T08:45:05.690Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -325,7 +325,7 @@
           "date": "2026-09-12",
           "content": "1단원 재시/재시대비프린트/\n2.1.1 개념준비/",
           "score": "70",
-          "comment": ""
+          "comment": "개념교재 앞부분 안됨."
         }
       ]
     },
@@ -351,7 +351,7 @@
         {
           "date": "2026-09-12",
           "content": "1단원평가/2.1.3까지 필수예제만/",
-          "score": "과제안함",
+          "score": "10",
           "comment": ""
         }
       ]
