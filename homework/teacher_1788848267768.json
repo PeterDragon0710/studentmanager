@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-14T12:52:25.594Z",
+  "updatedAt": "2026-09-15T06:05:44.890Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -522,7 +522,7 @@
         {
           "date": "2026-09-12",
           "content": "1.4.1~1.4.2 개념영상,개념유형",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
