@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-09-15T05:49:42.201Z",
+  "updatedAt": "2026-09-15T05:52:51.638Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -219,6 +219,21 @@
         {
           "date": "2026-09-15",
           "content": "[초등6-2] L1 / 4.1.3~4.2.2 / 필수~2차",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_wiadoqdrmu299hh2",
+      "name": "함소유(영천초6)",
+      "day": "화목토",
+      "part": "2부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-15",
+          "content": "[초등3-1] 6단원 학습지(2026.09.15)\n[초등3-1] L1 / 6.1.4 / 1차~2차",
           "score": null,
           "comment": ""
         }
