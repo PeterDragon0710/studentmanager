@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-15T08:45:05.690Z",
+  "updatedAt": "2026-09-15T09:43:58.391Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -222,7 +222,7 @@
         {
           "date": "2026-09-12",
           "content": "3.2.2는 2차까지/3.2.3은 개념준비/",
-          "score": "100",
+          "score": "90",
           "comment": ""
         }
       ]
@@ -351,7 +351,7 @@
         {
           "date": "2026-09-12",
           "content": "1단원평가/2.1.3까지 필수예제만/",
-          "score": "10",
+          "score": "과제안함",
           "comment": ""
         }
       ]
