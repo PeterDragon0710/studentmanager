@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-09-15T07:52:18.322Z",
+  "updatedAt": "2026-09-15T07:58:00.056Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -228,6 +228,21 @@
         {
           "date": "2026-09-15",
           "content": "[초등3-1] 6단원 학습지(2026.09.15)\n[초등3-1] L1 / 6.1.4 / 1차~2차",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_m4wcb1zumu2dqf08",
+      "name": "정서연",
+      "day": "화목토",
+      "part": "2부",
+      "school": "",
+      "records": [
+        {
+          "date": "2026-09-15",
+          "content": "<진도>\n[초등6-2] 개념 / 1.1.1~1.1.2 / 개념영상 및 개념유형\n[초등6-2] L2 / 1.1.1~1.1.2 / 필수~2차",
           "score": null,
           "comment": ""
         }
