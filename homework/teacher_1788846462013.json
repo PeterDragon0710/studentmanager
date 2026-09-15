@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-09-15T05:52:51.638Z",
+  "updatedAt": "2026-09-15T05:54:45.370Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "linkId": "stu_vfm2xpsomu28kwj9",
+      "linkId": "stu_krqbpw79mu29ais9",
       "name": "박세은A",
       "day": "월금",
       "part": "3부",
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "linkId": "stu_cqkrwepcmu28kwj9",
+      "linkId": "stu_ow8mpqv1mu29ais9",
       "name": "임한울",
       "day": "월금",
       "part": "3부",
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "linkId": "stu_3wm15colmu28kwj9",
+      "linkId": "stu_juadg0knmu29ais9",
       "name": "전채범",
       "day": "월금",
       "part": "3부",
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "linkId": "stu_jzkrzil0mu28kwj9",
+      "linkId": "stu_ilygscjomu29ais9",
       "name": "조형래",
       "day": "월금",
       "part": "3부",
