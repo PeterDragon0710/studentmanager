@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-15T09:50:25.829Z",
+  "updatedAt": "2026-09-15T12:59:41.245Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -471,7 +471,7 @@
         {
           "date": "2026-09-10",
           "content": "시험대비교재 4회차, 실전모의고사1회 풀어오기.",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -486,7 +486,7 @@
         {
           "date": "2026-09-10",
           "content": "시험대비교재 실전모의고사1회, 4회차문제 풀어오기.",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
