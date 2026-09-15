@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-15T09:56:04.447Z",
+  "updatedAt": "2026-09-15T10:48:05.880Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -222,8 +222,8 @@
         {
           "date": "2026-09-12",
           "content": "3.2.2는 2차까지/3.2.3은 개념준비/",
-          "score": "90",
-          "comment": "이전 개념 살짝 아쉬움"
+          "score": "80",
+          "comment": "이전 개념 암기 다소 아쉬움"
         },
         {
           "date": "2026-09-15",
