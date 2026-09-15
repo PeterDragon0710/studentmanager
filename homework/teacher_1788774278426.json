@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-14T09:56:36.069Z",
+  "updatedAt": "2026-09-15T08:21:24.799Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -25,6 +25,12 @@
           "date": "2026-09-11",
           "content": "3.3.2까지 2차까지/3단원평가/",
           "score": "70",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-14",
+          "content": "2-1 연습문제 프린트 L3/L3교재 새로 받을 예정/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -216,7 +222,7 @@
         {
           "date": "2026-09-12",
           "content": "3.2.2는 2차까지/3.2.3은 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -243,8 +249,8 @@
         {
           "date": "2026-09-12",
           "content": "1단원 재시/재시대비프린트/\n2.1.1 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "오답유사 안됨."
         }
       ]
     },
@@ -270,8 +276,8 @@
         {
           "date": "2026-09-12",
           "content": "4.2.3 끝내기/\n평가대비 후에 4단원평가/",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "교재오답유사 안됨."
         }
       ]
     },
@@ -291,7 +297,7 @@
         {
           "date": "2026-09-12",
           "content": "2.3.2까지 끝내기/2단원평가/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -318,7 +324,7 @@
         {
           "date": "2026-09-12",
           "content": "1단원 재시/재시대비프린트/\n2.1.1 개념준비/",
-          "score": null,
+          "score": "70",
           "comment": ""
         }
       ]
@@ -345,7 +351,7 @@
         {
           "date": "2026-09-12",
           "content": "1단원평가/2.1.3까지 필수예제만/",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         }
       ]
