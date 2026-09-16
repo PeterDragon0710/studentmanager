@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-16T08:06:23.046Z",
+  "updatedAt": "2026-09-16T08:57:10.827Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -162,7 +162,7 @@
         {
           "date": "2026-09-14",
           "content": "1.2.2 개념준비/",
-          "score": "90",
+          "score": "80",
           "comment": ""
         }
       ]
