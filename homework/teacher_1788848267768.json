@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-16T09:49:01.287Z",
+  "updatedAt": "2026-09-16T10:12:20.339Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -936,7 +936,7 @@
         {
           "date": "2026-09-12",
           "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -957,7 +957,7 @@
         {
           "date": "2026-09-12",
           "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -978,7 +978,7 @@
         {
           "date": "2026-09-12",
           "content": "시험대비교재 4회차 (1.1삼각형/1.2사각형) / 과제프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
