@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-16T07:52:02.939Z",
+  "updatedAt": "2026-09-16T07:53:45.611Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -138,7 +138,7 @@
         {
           "date": "2026-09-14",
           "content": "1단원그린챌린지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
