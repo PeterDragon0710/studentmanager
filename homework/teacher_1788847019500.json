@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-16T07:48:42.877Z",
+  "updatedAt": "2026-09-16T07:52:02.939Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -29,7 +29,7 @@
         },
         {
           "date": "2026-09-16",
-          "content": "약수,배수 프린트 풀어오기",
+          "content": "약수,배수 프린트 풀어오기, 공약수,최대공약수 개념학습",
           "score": null,
           "comment": ""
         }
