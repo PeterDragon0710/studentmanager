@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-17T08:54:14.743Z",
+  "updatedAt": "2026-09-17T09:28:21.259Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -264,7 +264,7 @@
         {
           "date": "2026-09-15",
           "content": "3.2.3은 1차까지/연습문제/",
-          "score": "90",
+          "score": "70",
           "comment": "해설 안되는 오답문항 있음."
         }
       ]
@@ -330,7 +330,7 @@
         {
           "date": "2026-09-15",
           "content": "4단원 연습문제/4단원평가/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
