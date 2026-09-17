@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-16T09:53:18.387Z",
+  "updatedAt": "2026-09-17T08:54:14.743Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -264,8 +264,8 @@
         {
           "date": "2026-09-15",
           "content": "3.2.3은 1차까지/연습문제/",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "해설 안되는 오답문항 있음."
         }
       ]
     },
@@ -297,8 +297,8 @@
         {
           "date": "2026-09-15",
           "content": "2.1.2까지 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "외각 개념 살짝 미흡"
         }
       ]
     },
@@ -357,7 +357,7 @@
         {
           "date": "2026-09-15",
           "content": "2단원평가/3.1.3까지 필수예제만/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -390,7 +390,7 @@
         {
           "date": "2026-09-15",
           "content": "2.1.2까지 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -423,8 +423,8 @@
         {
           "date": "2026-09-15",
           "content": "2.1.3까지 개념듣고 필수예제만/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "2.1.3 안됨."
         }
       ]
     }
