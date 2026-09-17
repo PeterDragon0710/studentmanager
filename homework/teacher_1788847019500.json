@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-16T12:57:34.212Z",
+  "updatedAt": "2026-09-17T06:43:43.084Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -225,7 +225,7 @@
         {
           "date": "2026-09-15",
           "content": "2.2.2 2차학습, 2단원 다시풀기, 오답유사까지",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
