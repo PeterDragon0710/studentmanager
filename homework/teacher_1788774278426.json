@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-17T09:40:16.546Z",
+  "updatedAt": "2026-09-17T09:43:48.162Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -303,8 +303,8 @@
         {
           "date": "2026-09-15",
           "content": "2.1.2까지 개념준비/",
-          "score": "90",
-          "comment": "외각 개념 살짝 미흡"
+          "score": "70",
+          "comment": "개념미흡 및 오답정리 부실."
         },
         {
           "date": "2026-09-17",
