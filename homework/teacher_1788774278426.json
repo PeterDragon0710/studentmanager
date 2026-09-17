@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-17T09:43:48.162Z",
+  "updatedAt": "2026-09-17T09:48:08.306Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -265,7 +265,7 @@
           "date": "2026-09-15",
           "content": "3.2.3은 1차까지/연습문제/",
           "score": "70",
-          "comment": "오답정리 친구도움."
+          "comment": "오답정리 미흡 및 친구도움."
         },
         {
           "date": "2026-09-17",
