@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-17T09:43:51.105Z",
+  "updatedAt": "2026-09-17T12:55:01.886Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -573,7 +573,7 @@
         {
           "date": "2026-09-15",
           "content": "시험대비교재 5회차 풀어오기.",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -594,7 +594,7 @@
         {
           "date": "2026-09-15",
           "content": "시험대비교재 5회차 풀어오기.",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
