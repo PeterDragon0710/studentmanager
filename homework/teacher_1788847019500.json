@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-18T07:44:17.614Z",
+  "updatedAt": "2026-09-18T08:06:23.344Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -162,7 +162,7 @@
         {
           "date": "2026-09-16",
           "content": "2.1.2 2차학습까지",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
