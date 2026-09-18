@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-18T06:34:44.046Z",
+  "updatedAt": "2026-09-18T06:43:34.010Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -195,7 +195,7 @@
         {
           "date": "2026-09-16",
           "content": "2.1.1~2.1.2 개념영상,개념유형 / 1단원 그린챌린지 전체4개이하",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
