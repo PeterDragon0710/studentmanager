@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-18T09:53:36.633Z",
+  "updatedAt": "2026-09-19T03:34:53.933Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -441,6 +441,12 @@
         {
           "date": "2026-09-17",
           "content": "2단원 그린챌린지",
+          "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "3.1.2 필수예제까지",
           "score": null,
           "comment": ""
         }
@@ -468,6 +474,12 @@
         {
           "date": "2026-09-17",
           "content": "1.2.2 개념학습",
+          "score": "70",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "1.2.2 2차학습까지",
           "score": null,
           "comment": ""
         }
@@ -501,6 +513,12 @@
         {
           "date": "2026-09-17",
           "content": "1단원 그린챌린지",
+          "score": "과제안함",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "1단원 학습지, 2.1.1 개념학습",
           "score": null,
           "comment": ""
         }
@@ -528,6 +546,12 @@
         {
           "date": "2026-09-15",
           "content": "2단원 그린챌린지",
+          "score": "70",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "2단원 프린트 풀어오기",
           "score": null,
           "comment": ""
         }
@@ -555,6 +579,12 @@
         {
           "date": "2026-09-17",
           "content": "1단원 그린챌린지",
+          "score": "과제안함",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "1단원 학습지. 2.1.1 개념학습",
           "score": null,
           "comment": ""
         }
