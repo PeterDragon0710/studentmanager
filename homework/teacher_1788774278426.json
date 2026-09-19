@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-19T00:28:28.158Z",
+  "updatedAt": "2026-09-19T01:26:52.824Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -308,6 +308,12 @@
           "content": "3단원평가/평가대비프린트/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "3단원 재시/재시대비프린트/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -346,6 +352,12 @@
           "date": "2026-09-17",
           "content": "2.2.1까지 개념준비/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "2.2.1까지 2차까지/2.2.2 개념준비/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -386,6 +398,12 @@
           "content": "학기평가/평가대비프린트/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "새교재 1.1.2까지 필수예제만/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -418,6 +436,12 @@
           "date": "2026-09-17",
           "content": "3.1.3까지 1차만/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "3.1.3까지 2차까지/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -458,6 +482,12 @@
           "content": "2.2.1까지 개념준비/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-09-19",
+          "content": "2.2.1까지 2차까지/2.2.2 개념준비/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -497,6 +527,12 @@
           "content": "2.1.3의 1차까지/",
           "score": "60",
           "comment": "오답유사 안됨"
+        },
+        {
+          "date": "2026-09-19",
+          "content": "2.1.3은 마무리/2.2.2까지 개념준비/",
+          "score": null,
+          "comment": ""
         }
       ]
     }
