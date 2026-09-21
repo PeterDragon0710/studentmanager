@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-21T06:35:21.605Z",
+  "updatedAt": "2026-09-21T07:53:35.566Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -37,6 +37,12 @@
           "date": "2026-09-18",
           "content": "곱셈,나눗셈 30문제 풀고 오답고치기, 오답유사",
           "score": "80",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-21",
+          "content": "구구단 외워오기",
+          "score": null,
           "comment": ""
         }
       ]
@@ -77,6 +83,12 @@
           "content": "4단원 심화문제",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-09-21",
+          "content": "5.1.1, 5.1.2 2차학습",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -97,6 +109,12 @@
           "date": "2026-09-14",
           "content": "2.2.2 필수예제까지 풀어오기.",
           "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-21",
+          "content": "2.2.2 2차학습까지",
+          "score": null,
           "comment": ""
         }
       ]
