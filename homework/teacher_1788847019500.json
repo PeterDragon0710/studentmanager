@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-21T05:30:31.866Z",
+  "updatedAt": "2026-09-21T05:32:53.274Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -612,7 +612,7 @@
         {
           "date": "2026-09-14",
           "content": "시험대비교재 5회차 풀어오기, 기출 BEST 쌍둥이 문제 풀어오기.",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
