@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-21T09:49:12.575Z",
+  "updatedAt": "2026-09-21T13:10:33.645Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -654,7 +654,7 @@
         {
           "date": "2026-09-18",
           "content": "시험대비교재 6회차 풀어오기",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         }
       ]
