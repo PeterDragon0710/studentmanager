@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-22T08:58:21.714Z",
+  "updatedAt": "2026-09-22T09:15:45.997Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -480,8 +480,8 @@
         {
           "date": "2026-09-17",
           "content": "1.2.2 1차학습",
-          "score": "70",
-          "comment": ""
+          "score": "50",
+          "comment": "채점 안되어 있음"
         }
       ]
     },
@@ -658,7 +658,7 @@
           "date": "2026-09-19",
           "content": "1단원 학습지. 2.1.1 개념학습",
           "score": "과제안함",
-          "comment": ""
+          "comment": "23일에 마무리 짓고 가기"
         }
       ]
     },
