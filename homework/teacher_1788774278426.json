@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-21T09:51:54.989Z",
+  "updatedAt": "2026-09-22T08:09:27.240Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -342,7 +342,7 @@
         {
           "date": "2026-09-19",
           "content": "3단원 재시/재시대비프린트/",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         }
       ]
@@ -387,7 +387,7 @@
         {
           "date": "2026-09-19",
           "content": "2.2.1까지 2차까지/2.2.2 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -432,8 +432,8 @@
         {
           "date": "2026-09-19",
           "content": "새교재 1.1.2까지 필수예제만/",
-          "score": null,
-          "comment": ""
+          "score": "60",
+          "comment": "급하게 함,오답정리X,오답유사X"
         }
       ]
     },
@@ -471,7 +471,7 @@
         {
           "date": "2026-09-19",
           "content": "3.1.3까지 2차까지/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -516,7 +516,7 @@
         {
           "date": "2026-09-19",
           "content": "2.2.1까지 2차까지/2.2.2 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -561,8 +561,8 @@
         {
           "date": "2026-09-19",
           "content": "2.1.3은 마무리/2.2.2까지 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "50",
+          "comment": "개념준비 안됨."
         }
       ]
     }
