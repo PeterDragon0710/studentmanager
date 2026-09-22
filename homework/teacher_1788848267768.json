@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-22T08:17:31.503Z",
+  "updatedAt": "2026-09-22T09:12:05.383Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -668,6 +668,12 @@
           "content": "3.2.1 (2차) / 과제프린트(추가연습)",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-09-22",
+          "content": "TOMA 연습2회",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -707,6 +713,12 @@
           "content": "과제프린트(2.1.1~2.1.4 복습) / 2.1.4 그린챌린지 전체(직접도전)",
           "score": "90",
           "comment": "과제프린트 가져오지 않았음!"
+        },
+        {
+          "date": "2026-09-22",
+          "content": "TOMA 연습2회",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -745,6 +757,12 @@
           "date": "2026-09-19",
           "content": "1.3.2 (2차) / 과제프린트(1.1.1~1.3.2 복습)",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-22",
+          "content": "TOMA연습1회 / 연습2회",
+          "score": null,
           "comment": ""
         }
       ]
@@ -785,6 +803,12 @@
           "content": "과제프린트(2.1.1~2.1.4 복습)",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-09-22",
+          "content": "TOMA 연습2회",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -823,6 +847,12 @@
           "date": "2026-09-19",
           "content": "1단원 평가대비 프린트",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-22",
+          "content": "TOMA 연습2회",
+          "score": null,
           "comment": ""
         }
       ]
@@ -863,6 +893,12 @@
           "content": "1.1.1~1.1.3 (2차학습)",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-09-22",
+          "content": "TOMA 연습2회",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -901,6 +937,12 @@
           "date": "2026-09-19",
           "content": "과제프린트(1.4.1~1.4.4 복습) / 1.4.1~1.4.4 그린챌린지 전체(직접도전)",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-22",
+          "content": "TOMA 연습2회",
+          "score": null,
           "comment": ""
         }
       ]
