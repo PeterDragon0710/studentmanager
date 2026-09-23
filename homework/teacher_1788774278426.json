@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-22T09:43:35.753Z",
+  "updatedAt": "2026-09-23T08:05:24.862Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -48,7 +48,7 @@
         {
           "date": "2026-09-21",
           "content": "1.3.1까지 필수예제만/",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         }
       ]
@@ -99,8 +99,8 @@
         {
           "date": "2026-09-21",
           "content": "1단원재시/재시대비프린트/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "오답정리 안됨"
         }
       ]
     },
@@ -150,7 +150,7 @@
         {
           "date": "2026-09-21",
           "content": "3.2.2 마무리/3단원평가/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -201,7 +201,7 @@
         {
           "date": "2026-09-21",
           "content": "2.2.2의 1차학습만/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -297,7 +297,7 @@
         {
           "date": "2026-09-21",
           "content": "1.3.3까지 2차까지/1단원평가/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
