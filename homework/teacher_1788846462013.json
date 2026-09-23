@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-09-23T08:23:47.663Z",
+  "updatedAt": "2026-09-23T09:37:53.600Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -24,12 +24,12 @@
         {
           "date": "2026-09-21",
           "content": "<진도>\n[중등1-2] L3 / 2.1.2~2.2.1 / 필수~2차\n\n<과제>\n[중등1-2] L3 / 2.2.1 / 필수까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         },
         {
           "date": "2026-09-23",
-          "content": "<진도>\n제7회 TOMA 수학경시대회 - 중1(2026.09) 연습1회",
+          "content": "<진도>\n제7회 TOMA 수학경시대회 - 중1(2026.09) 연습1회\n\n<과제>\n[중등1-2] L3 / 2.2.1 / 1차~2차",
           "score": null,
           "comment": ""
         }
