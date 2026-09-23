@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-23T07:57:31.771Z",
+  "updatedAt": "2026-09-23T08:14:02.016Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -444,8 +444,8 @@
         {
           "date": "2026-09-21",
           "content": "4.2.1~4.2.2 (1차, 2차학습)",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "4.2.2 : 2차학습 미완료."
         }
       ]
     },
@@ -579,8 +579,8 @@
         {
           "date": "2026-09-21",
           "content": "4.2.2~4.2.3 (1차, 2차학습)",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "교재 미지참."
         }
       ]
     },
@@ -624,7 +624,7 @@
         {
           "date": "2026-09-21",
           "content": "과제프린트(3단원 그린챌린지)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -669,7 +669,7 @@
         {
           "date": "2026-09-21",
           "content": "1.2.3 (1차, 2차학습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
