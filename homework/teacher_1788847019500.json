@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-23T07:49:24.252Z",
+  "updatedAt": "2026-09-23T09:07:49.833Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -179,6 +179,12 @@
           "content": "3.2.3 1차학습까지",
           "score": "90",
           "comment": ""
+        },
+        {
+          "date": "2026-09-23",
+          "content": "3단원 그린챌린지, 3.2.3 2차학습",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -221,7 +227,7 @@
         },
         {
           "date": "2026-09-21",
-          "content": "2.2.3 필수예제까지",
+          "content": "TOMA 1차대비, 2.2.3 필수예제까지",
           "score": null,
           "comment": ""
         }
@@ -268,6 +274,12 @@
           "date": "2026-09-21",
           "content": "2.2.3 2차학습까지",
           "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-23",
+          "content": "2.2.4, 2.2.5 필수예제, 1차학습",
+          "score": null,
           "comment": ""
         }
       ]
