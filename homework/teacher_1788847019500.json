@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-09-28T09:48:59.569Z",
+  "updatedAt": "2026-09-28T13:06:38.007Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -342,8 +342,8 @@
         {
           "date": "2026-09-22",
           "content": "2단원 프린트 풀어오기, TOMA 2차대비",
-          "score": null,
-          "comment": ""
+          "score": "60",
+          "comment": "대충 푸는듯한 모습이 보임."
         }
       ]
     },
@@ -507,7 +507,7 @@
         {
           "date": "2026-09-22",
           "content": "3단원 그린챌린지, TOMA 2차대비",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -625,7 +625,7 @@
           "date": "2026-09-19",
           "content": "1.2.2 2차학습까지",
           "score": "80",
-          "comment": ""
+          "comment": "제대로 풀었는지 확인 필요."
         }
       ]
     },
