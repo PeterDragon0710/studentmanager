@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-28T11:21:53.143Z",
+  "updatedAt": "2026-09-29T08:04:39.086Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -822,7 +822,7 @@
         {
           "date": "2026-09-22",
           "content": "TOMA 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -867,7 +867,7 @@
         {
           "date": "2026-09-22",
           "content": "TOMA 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -912,7 +912,7 @@
         {
           "date": "2026-09-22",
           "content": "TOMA연습1회 / 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -957,7 +957,7 @@
         {
           "date": "2026-09-22",
           "content": "TOMA 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1002,7 +1002,7 @@
         {
           "date": "2026-09-22",
           "content": "TOMA 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1047,7 +1047,7 @@
         {
           "date": "2026-09-22",
           "content": "TOMA 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1092,7 +1092,7 @@
         {
           "date": "2026-09-22",
           "content": "TOMA 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
