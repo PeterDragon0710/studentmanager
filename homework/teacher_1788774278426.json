@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-29T08:08:02.368Z",
+  "updatedAt": "2026-09-29T08:27:03.481Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -471,8 +471,8 @@
         {
           "date": "2026-09-22",
           "content": "2.2.3은 2차까지/2단원평가/",
-          "score": "100",
-          "comment": ""
+          "score": "60",
+          "comment": "과정 없이 정답만 맞음."
         }
       ]
     },
@@ -523,7 +523,7 @@
           "date": "2026-09-22",
           "content": "1.2.2까지 필수예제만/",
           "score": "60",
-          "comment": "1.2.2 필수예제 안됨"
+          "comment": "1.2.2 필수예제 및 오답유사 안됨"
         }
       ]
     },
