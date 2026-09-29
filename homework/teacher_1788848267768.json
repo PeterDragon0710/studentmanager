@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-29T09:54:22.623Z",
+  "updatedAt": "2026-09-29T11:22:46.090Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1398,8 +1398,8 @@
         {
           "date": "2026-09-22",
           "content": "기출문제(2025) 전체",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "일부 완료."
         }
       ]
     },
@@ -1431,7 +1431,7 @@
         {
           "date": "2026-09-22",
           "content": "기출문제(2025) 전체",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1464,7 +1464,7 @@
         {
           "date": "2026-09-22",
           "content": "기출문제(2025) 전체",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -1497,7 +1497,7 @@
         {
           "date": "2026-09-22",
           "content": "기출문제(2025) 전체",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -1524,7 +1524,7 @@
         {
           "date": "2026-09-22",
           "content": "시험대비교재 5회차(1.1삼각형 / 1.2사각형) / 기출문제(2025) 전체(답안지 맨 뒤에 있음, 채점까지)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1557,7 +1557,7 @@
         {
           "date": "2026-09-22",
           "content": "기출문제(2025) 전체",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
