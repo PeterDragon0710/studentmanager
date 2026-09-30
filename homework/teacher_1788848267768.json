@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-30T07:53:10.872Z",
+  "updatedAt": "2026-09-30T08:03:32.092Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -552,8 +552,8 @@
         {
           "date": "2026-09-28",
           "content": "4.2.2 그린챌린지 전체(직접도전) / TOMA 연습2회",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "그린챌린지 미완료."
         }
       ]
     },
@@ -603,7 +603,7 @@
         {
           "date": "2026-09-28",
           "content": "1.4.1~1.4.2 (1차학습) / TOMA 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -654,8 +654,8 @@
         {
           "date": "2026-09-28",
           "content": "3단원 평가대비 프린트 / TOMA연습2회",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "오답유사 미완료."
         }
       ]
     },
@@ -711,7 +711,7 @@
         {
           "date": "2026-09-28",
           "content": "과제프린트(1-2 그린챌린지) / TOMA 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -768,7 +768,7 @@
         {
           "date": "2026-09-28",
           "content": "4.2.2~4.2.3 (1차학습) / TOMA연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -825,7 +825,7 @@
         {
           "date": "2026-09-28",
           "content": "TOMA 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
