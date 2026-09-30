@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-29T09:52:27.643Z",
+  "updatedAt": "2026-09-30T08:56:34.789Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -60,7 +60,7 @@
         {
           "date": "2026-09-28",
           "content": "월간평가 대비 프린트",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         }
       ]
@@ -123,7 +123,7 @@
         {
           "date": "2026-09-28",
           "content": "월간평가 대비 프린트",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -186,7 +186,7 @@
         {
           "date": "2026-09-28",
           "content": "월간평가 대비 프린트",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -249,7 +249,7 @@
         {
           "date": "2026-09-28",
           "content": "월간평가 대비 프린트",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -306,7 +306,7 @@
         {
           "date": "2026-09-28",
           "content": "월간평가 대비 프린트",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -369,7 +369,7 @@
         {
           "date": "2026-09-28",
           "content": "월간평가 대비 프린트",
-          "score": null,
+          "score": "70",
           "comment": ""
         }
       ]
@@ -482,7 +482,7 @@
         },
         {
           "date": "2026-09-29",
-          "content": "13번 문제 설명준비/안되면 50문제 과제",
+          "content": "13번 문제 설명준비/안되면 50문제 과제\n문제 과정 적어오기/안될시 남음/",
           "score": null,
           "comment": ""
         }
