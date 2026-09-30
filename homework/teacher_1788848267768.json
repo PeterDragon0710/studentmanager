@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-09-30T08:50:43.717Z",
+  "updatedAt": "2026-09-30T12:25:25.962Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -734,7 +734,7 @@
         },
         {
           "date": "2026-09-30",
-          "content": "학기평가 대비 프린트 / (2-1) 1.1.1 개념영상,개념유형",
+          "content": "학기평가 대비 프린트 ",
           "score": null,
           "comment": ""
         }
@@ -1614,7 +1614,7 @@
         {
           "date": "2026-09-29",
           "content": "시험대비교재 6회차(1.1삼각형 / 1.2 사각형)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
