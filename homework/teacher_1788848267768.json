@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-01T09:55:34.606Z",
+  "updatedAt": "2026-10-01T12:06:09.688Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1656,7 +1656,7 @@
         {
           "date": "2026-09-30",
           "content": "시험대비교재 7회차 (1.1삼각형 / 1.2사각형)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
