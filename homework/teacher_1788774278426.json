@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-09-30T08:56:34.789Z",
+  "updatedAt": "2026-10-01T09:27:13.280Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -59,7 +59,7 @@
         },
         {
           "date": "2026-09-28",
-          "content": "월간평가 대비 프린트",
+          "content": "월간평가 대비 프린트/목요일 5시 1단원 평가보고 감/",
           "score": "과제안함",
           "comment": ""
         }
@@ -125,6 +125,12 @@
           "content": "월간평가 대비 프린트",
           "score": "80",
           "comment": ""
+        },
+        {
+          "date": "2026-09-30",
+          "content": "2.1.3까지 필수예제만/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -187,6 +193,12 @@
           "date": "2026-09-28",
           "content": "월간평가 대비 프린트",
           "score": "80",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-30",
+          "content": "4.2.2까지 필수, 1차/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -251,6 +263,12 @@
           "content": "월간평가 대비 프린트",
           "score": "80",
           "comment": ""
+        },
+        {
+          "date": "2026-09-30",
+          "content": "2.3.1의 1차만/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -307,6 +325,12 @@
           "date": "2026-09-28",
           "content": "월간평가 대비 프린트",
           "score": "80",
+          "comment": ""
+        },
+        {
+          "date": "2026-09-30",
+          "content": "2.1.2까지 2차까지/2.1.3 개념준비/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -371,6 +395,12 @@
           "content": "월간평가 대비 프린트",
           "score": "70",
           "comment": ""
+        },
+        {
+          "date": "2026-09-30",
+          "content": "2.1.1 개념준비",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -426,6 +456,12 @@
         {
           "date": "2026-09-29",
           "content": "13번 문제 설명준비/안되면 50문제 과제",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-10-01",
+          "content": "4.2.3까지 1차까지/프린트 50제/",
           "score": null,
           "comment": ""
         }
@@ -485,6 +521,12 @@
           "content": "13번 문제 설명준비/안되면 50문제 과제\n문제 과정 적어오기/안될시 남음/",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-10-01",
+          "content": "2단원평가/평가대비프린트/50제 프린트/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -540,6 +582,12 @@
         {
           "date": "2026-09-29",
           "content": "13번 문제 설명준비/안되면 50문제 과제",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-10-01",
+          "content": "1.2.2까지 1차만 전부/추가 50문제 프린트/",
           "score": null,
           "comment": ""
         }
@@ -644,6 +692,12 @@
           "content": "13번 문제 설명준비/안되면 50문제 과제",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-10-01",
+          "content": "2단원 평가/평가대비 프린트/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -699,6 +753,12 @@
         {
           "date": "2026-09-29",
           "content": "13번 문제 설명준비/안되면 50문제 과제",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-10-01",
+          "content": "2.2.3까지 개념교재 개념유형학습 전부/2.2.3은 필수, 1차만/",
           "score": null,
           "comment": ""
         }
