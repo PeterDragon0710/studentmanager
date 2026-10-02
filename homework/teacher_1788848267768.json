@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-02T07:49:43.445Z",
+  "updatedAt": "2026-10-02T07:54:26.838Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -404,7 +404,7 @@
         },
         {
           "date": "2026-10-02",
-          "content": "2.2.1~2.2.2 (1차, 2차학습)",
+          "content": "2.2.1 (1차, 2차) / 2.2.1 그린챌린지 전체 (직접 도전)",
           "score": null,
           "comment": ""
         }
