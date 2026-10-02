@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-02T05:27:46.292Z",
+  "updatedAt": "2026-10-02T05:51:58.405Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -456,7 +456,7 @@
         {
           "date": "2026-09-29",
           "content": "13번 문제 설명준비/안되면 50문제 과제",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         },
         {
@@ -519,7 +519,7 @@
         {
           "date": "2026-09-29",
           "content": "13번 문제 설명준비/안되면 50문제 과제\n문제 과정 적어오기/안될시 남음/",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         },
         {
@@ -582,7 +582,7 @@
         {
           "date": "2026-09-29",
           "content": "13번 문제 설명준비/안되면 50문제 과제",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         },
         {
@@ -690,7 +690,7 @@
         {
           "date": "2026-09-29",
           "content": "13번 문제 설명준비/안되면 50문제 과제",
-          "score": null,
+          "score": "100",
           "comment": ""
         },
         {
@@ -753,7 +753,7 @@
         {
           "date": "2026-09-29",
           "content": "13번 문제 설명준비/안되면 50문제 과제",
-          "score": null,
+          "score": "100",
           "comment": ""
         },
         {
