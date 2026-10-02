@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-01T09:27:13.280Z",
+  "updatedAt": "2026-10-02T05:12:01.254Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -60,7 +60,7 @@
         {
           "date": "2026-09-28",
           "content": "월간평가 대비 프린트/목요일 5시 1단원 평가보고 감/",
-          "score": "과제안함",
+          "score": null,
           "comment": ""
         }
       ]
@@ -587,7 +587,7 @@
         },
         {
           "date": "2026-10-01",
-          "content": "1.2.2까지 1차만 전부/추가 50문제 프린트/",
+          "content": "1.2.1까지 1차만 전부/1.2.2는 필수 오답정리만/추가 50문제 프린트/",
           "score": null,
           "comment": ""
         }
