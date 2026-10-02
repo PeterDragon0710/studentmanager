@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-02T07:54:26.838Z",
+  "updatedAt": "2026-10-02T08:02:19.022Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -606,7 +606,7 @@
         {
           "date": "2026-09-30",
           "content": "4.2.3 (1차, 2차학습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -720,7 +720,7 @@
         {
           "date": "2026-09-30",
           "content": "3단원 평가대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -783,8 +783,8 @@
         {
           "date": "2026-09-30",
           "content": "학기평가 대비 프린트 ",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "오답유사학습!"
         }
       ]
     },
@@ -846,7 +846,7 @@
         {
           "date": "2026-09-30",
           "content": "4.2.2~4.2.3 (2차) / 4단원 평가대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -909,7 +909,7 @@
         {
           "date": "2026-09-30",
           "content": "1.3.1~1.4.1 (2차학습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
