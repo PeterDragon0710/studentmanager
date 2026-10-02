@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-02T07:57:11.527Z",
+  "updatedAt": "2026-10-02T08:02:47.084Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -135,8 +135,8 @@
         {
           "date": "2026-09-30",
           "content": "2.1.3까지 필수예제만/",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "급하게 함. 점수 낮음."
         }
       ]
     },
@@ -204,7 +204,7 @@
         {
           "date": "2026-09-30",
           "content": "4.2.2까지 필수, 1차/",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -273,7 +273,7 @@
         {
           "date": "2026-09-30",
           "content": "2.3.1의 1차만/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -336,7 +336,7 @@
         {
           "date": "2026-09-30",
           "content": "2.1.2까지 2차까지/2.1.3 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
