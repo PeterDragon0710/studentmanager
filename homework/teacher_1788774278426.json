@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-02T09:26:17.701Z",
+  "updatedAt": "2026-10-06T08:03:01.389Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -492,8 +492,8 @@
         {
           "date": "2026-10-01",
           "content": "4.2.3까지 1차까지/프린트 50제/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "오답유사 하나 안됨"
         }
       ]
     },
@@ -555,8 +555,8 @@
         {
           "date": "2026-10-01",
           "content": "2단원평가/평가대비프린트/50제 프린트/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "급하게 함."
         }
       ]
     },
@@ -618,8 +618,8 @@
         {
           "date": "2026-10-01",
           "content": "1.2.1까지 1차만 전부/1.2.2는 필수 오답정리만/추가 50문제 프린트/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "1.1.2 필수,1차 오답유사 안됨"
         }
       ]
     },
@@ -663,7 +663,7 @@
         {
           "date": "2026-09-22",
           "content": "3.2.3까지 필수예제만/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -726,7 +726,7 @@
         {
           "date": "2026-10-01",
           "content": "2단원 평가/평가대비 프린트/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -789,6 +789,51 @@
         {
           "date": "2026-10-01",
           "content": "2.2.3까지 개념교재 개념유형학습 전부/2.2.3은 필수, 1차만/",
+          "score": "70",
+          "comment": "개념유형학습 일부 안됨."
+        }
+      ]
+    },
+    {
+      "linkId": "stu_udw5c2psmuwe5ril",
+      "name": "김선우",
+      "day": "월금",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-10-02",
+          "content": "1단원 필수예제 전부/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_tazfwtnbmuwe5ril",
+      "name": "박찬우",
+      "day": "월금",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-10-02",
+          "content": "2.2.2까지 필수예제만/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_sg24dadrmuwe5ril",
+      "name": "황석민",
+      "day": "월금",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-10-02",
+          "content": "학기평가/재시대비 프린트/",
           "score": null,
           "comment": ""
         }
