@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-02T09:51:28.961Z",
+  "updatedAt": "2026-10-06T04:59:45.423Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -420,7 +420,7 @@
         {
           "date": "2026-09-29",
           "content": "2단원 그린챌린지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -465,7 +465,7 @@
         {
           "date": "2026-10-01",
           "content": "4.1.1, 4.1.2 2차학습까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -510,8 +510,8 @@
         {
           "date": "2026-10-01",
           "content": "4.2.2 2차학습, 4단원 그린챌린지",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "다시 풀기 했는지만 확인"
         }
       ]
     },
@@ -555,8 +555,8 @@
         {
           "date": "2026-10-01",
           "content": "4단원 대비 프린트 풀어오기",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "다시풀기 했는지만 확인"
         }
       ]
     },
@@ -600,7 +600,7 @@
         {
           "date": "2026-10-01",
           "content": "4.1.1, 4.1.2 2차학습까지",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
