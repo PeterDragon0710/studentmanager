@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-06T08:03:01.389Z",
+  "updatedAt": "2026-10-06T09:47:33.205Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -494,6 +494,12 @@
           "content": "4.2.3까지 1차까지/프린트 50제/",
           "score": "70",
           "comment": "오답유사 하나 안됨"
+        },
+        {
+          "date": "2026-10-06",
+          "content": "4단원 2차 마무리/4단원 평가/평가대비프린트/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -557,6 +563,12 @@
           "content": "2단원평가/평가대비프린트/50제 프린트/",
           "score": "70",
           "comment": "급하게 함."
+        },
+        {
+          "date": "2026-10-06",
+          "content": "3.1.2까지 개념준비/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -620,6 +632,12 @@
           "content": "1.2.1까지 1차만 전부/1.2.2는 필수 오답정리만/추가 50문제 프린트/",
           "score": "70",
           "comment": "1.1.2 필수,1차 오답유사 안됨"
+        },
+        {
+          "date": "2026-10-06",
+          "content": "1.2.1은 2차/1.2.2는 1차만/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -664,6 +682,12 @@
           "date": "2026-09-22",
           "content": "3.2.3까지 필수예제만/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-06",
+          "content": "3.2.3까지 1차만/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -728,6 +752,12 @@
           "content": "2단원 평가/평가대비 프린트/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-06",
+          "content": "3.1.2까지 개념준비",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -791,11 +821,17 @@
           "content": "2.2.3까지 개념교재 개념유형학습 전부/2.2.3은 필수, 1차만/",
           "score": "70",
           "comment": "개념유형학습 일부 안됨."
+        },
+        {
+          "date": "2026-10-06",
+          "content": "2.2.4의 필수,1차만/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
     {
-      "linkId": "stu_udw5c2psmuwe5ril",
+      "linkId": "stu_tn0t8h7fmuwhw6vp",
       "name": "김선우",
       "day": "월금",
       "part": "3부",
@@ -810,7 +846,7 @@
       ]
     },
     {
-      "linkId": "stu_tazfwtnbmuwe5ril",
+      "linkId": "stu_qumtt7d8muwhw6vp",
       "name": "박찬우",
       "day": "월금",
       "part": "3부",
@@ -825,7 +861,7 @@
       ]
     },
     {
-      "linkId": "stu_sg24dadrmuwe5ril",
+      "linkId": "stu_q0j834v9muwhw6vp",
       "name": "황석민",
       "day": "월금",
       "part": "3부",
