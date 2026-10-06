@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-06T09:56:24.656Z",
+  "updatedAt": "2026-10-06T11:21:02.845Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1755,7 +1755,7 @@
         {
           "date": "2026-10-01",
           "content": "시험대비교재 8회차(1.1삼각형 / 1.2사각형)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
