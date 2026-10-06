@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-02T09:55:54.461Z",
+  "updatedAt": "2026-10-06T08:01:30.663Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1002,7 +1002,7 @@
         {
           "date": "2026-10-01",
           "content": "3.2.2~3.2.3 (1차, 2차학습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1053,7 +1053,7 @@
         {
           "date": "2026-09-29",
           "content": "과제프린트(2.1.1~2.1.4 복습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1110,7 +1110,7 @@
         {
           "date": "2026-10-01",
           "content": "1.3.3 (2차) / 1단원 평가대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1167,7 +1167,7 @@
         {
           "date": "2026-10-01",
           "content": "2.2.1 (2차) / 2.2.2 개념영상,개념유형",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1224,7 +1224,7 @@
         {
           "date": "2026-10-01",
           "content": "과제프린트(1단원 복습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1281,7 +1281,7 @@
         {
           "date": "2026-10-01",
           "content": "1.1.4~1.2.1 (1차, 2차학습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1338,7 +1338,7 @@
         {
           "date": "2026-10-01",
           "content": "1단원 평가대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
