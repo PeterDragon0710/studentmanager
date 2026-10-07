@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-07T07:49:37.462Z",
+  "updatedAt": "2026-10-07T09:46:55.841Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -284,6 +284,12 @@
           "content": "3단원 프린트",
           "score": "80",
           "comment": "오답유사 안되어있음"
+        },
+        {
+          "date": "2026-10-07",
+          "content": "1-2 프린트 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -347,6 +353,12 @@
           "content": "2단원 마무리, 2단원 그린챌린지",
           "score": "90",
           "comment": "질문 확인"
+        },
+        {
+          "date": "2026-10-07",
+          "content": "1-2 프린트 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -415,6 +427,12 @@
           "date": "2026-10-02",
           "content": "1-2 프린트 풀어오기",
           "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-07",
+          "content": "3.1.2 2차학습, 3.1.3 필수예제",
+          "score": null,
           "comment": ""
         }
       ]
