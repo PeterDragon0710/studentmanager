@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-06T09:53:04.797Z",
+  "updatedAt": "2026-10-07T08:04:33.089Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -66,8 +66,8 @@
         {
           "date": "2026-09-30",
           "content": "2.1.3까지 필수예제만/",
-          "score": null,
-          "comment": ""
+          "score": "50",
+          "comment": "과제 덜 됨. 급하게 함."
         }
       ]
     },
@@ -141,8 +141,8 @@
         {
           "date": "2026-10-02",
           "content": "2.1.3은 2차까지/2.2.1 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "교재 두고 옴"
         }
       ]
     },
@@ -216,7 +216,7 @@
         {
           "date": "2026-10-02",
           "content": "4.2.3 끝내기/4단원평가/평가대비프린트/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -291,7 +291,7 @@
         {
           "date": "2026-10-02",
           "content": "2.3.1은 2차까지/ 2.3.2는 개념준비/",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -360,7 +360,7 @@
         {
           "date": "2026-10-02",
           "content": "2.1.3은 2차까지/2.2.1 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -831,7 +831,7 @@
       ]
     },
     {
-      "linkId": "stu_tn0t8h7fmuwhw6vp",
+      "linkId": "stu_cjkzia1bmuxtnkxt",
       "name": "김선우",
       "day": "월금",
       "part": "3부",
@@ -846,7 +846,7 @@
       ]
     },
     {
-      "linkId": "stu_qumtt7d8muwhw6vp",
+      "linkId": "stu_5rgbqmummuxtnkxt",
       "name": "박찬우",
       "day": "월금",
       "part": "3부",
@@ -861,7 +861,7 @@
       ]
     },
     {
-      "linkId": "stu_q0j834v9muwhw6vp",
+      "linkId": "stu_v3dha2aomuxtnkxt",
       "name": "황석민",
       "day": "월금",
       "part": "3부",
