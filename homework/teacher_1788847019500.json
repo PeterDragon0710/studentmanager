@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-06T11:52:45.521Z",
+  "updatedAt": "2026-10-07T04:50:20.149Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -67,7 +67,7 @@
           "date": "2026-10-02",
           "content": "곱셈연습 오답 고쳐오기, 구구단 10단까지 숙지",
           "score": null,
-          "comment": ""
+          "comment": "당일에 확인해보아야 함."
         }
       ]
     },
@@ -135,7 +135,7 @@
         {
           "date": "2026-10-02",
           "content": "5단원 그린챌린지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -181,7 +181,7 @@
           "date": "2026-10-02",
           "content": "3.1.2 2차학습까지, 3.2.1, 3.2.2 개념학습",
           "score": null,
-          "comment": ""
+          "comment": "당일에 확인"
         }
       ]
     },
@@ -249,8 +249,8 @@
         {
           "date": "2026-10-02",
           "content": "3단원 프린트",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "오답유사 안되어있음"
         }
       ]
     },
@@ -312,8 +312,8 @@
         {
           "date": "2026-10-02",
           "content": "2단원 마무리, 2단원 그린챌린지",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "질문 확인"
         }
       ]
     },
@@ -381,7 +381,7 @@
         {
           "date": "2026-10-02",
           "content": "1-2 프린트 풀어오기",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
