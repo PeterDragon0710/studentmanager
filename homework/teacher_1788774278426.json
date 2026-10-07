@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-07T08:04:33.089Z",
+  "updatedAt": "2026-10-07T08:16:44.154Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -360,8 +360,8 @@
         {
           "date": "2026-10-02",
           "content": "2.1.3은 2차까지/2.2.1 개념준비/",
-          "score": "100",
-          "comment": ""
+          "score": "70",
+          "comment": "개념 완성도 살짝 아쉬움."
         }
       ]
     },
@@ -831,7 +831,7 @@
       ]
     },
     {
-      "linkId": "stu_cjkzia1bmuxtnkxt",
+      "linkId": "stu_ftjclro0muxu3916",
       "name": "김선우",
       "day": "월금",
       "part": "3부",
@@ -846,7 +846,7 @@
       ]
     },
     {
-      "linkId": "stu_5rgbqmummuxtnkxt",
+      "linkId": "stu_m85k8mwsmuxu3916",
       "name": "박찬우",
       "day": "월금",
       "part": "3부",
@@ -861,7 +861,7 @@
       ]
     },
     {
-      "linkId": "stu_v3dha2aomuxtnkxt",
+      "linkId": "stu_ppxwbl5jmuxu3916",
       "name": "황석민",
       "day": "월금",
       "part": "3부",
