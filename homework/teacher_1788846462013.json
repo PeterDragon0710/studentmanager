@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-10-07T07:58:54.989Z",
+  "updatedAt": "2026-10-07T12:35:03.837Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -48,12 +48,12 @@
         {
           "date": "2026-10-02",
           "content": "<진도>\n[중등1-2] L3 2단원평가\n[중등1-2] L3 / 3.1.1~3.1.2 / 필수~2차\n\n<과제>\n[중등1-2] L3 / 3.1.3 / 2차까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         },
         {
           "date": "2026-10-07",
-          "content": "<진도>\n[중등1-2] L3 / 3.2.1 / 필수~2차",
+          "content": "<진도>\n[중등1-2] L3 / 3.2.1 / 필수~2차\n\n<과제>\n[중등1-2] L3 / 3.2.1 / 2차\n[중등1-2] 1~2단원 그린챌린지(2026.10.07)",
           "score": null,
           "comment": ""
         }
@@ -702,6 +702,51 @@
         {
           "date": "2026-09-11",
           "content": "<과제>\n[중등3-2] 시험대비(S) 학교시험 완전정복 발상노트(삼각비~삼각비의 변의 길이)\n[중등3-2] 과제 1회차 (09/13 24:00까지)",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_e1kn8r24muy308re",
+      "name": "강리예",
+      "day": "수토",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-10-07",
+          "content": "<과제>\n[중등2-2] 개념 / 2.1.1~2.1.2 / 개념영상 및 개념유형",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_07703kx7muy30nr6",
+      "name": "김민솔",
+      "day": "수토",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-10-07",
+          "content": "<과제>\n[중등2-2] 쎈 / 도형의 닮음 / B traning(458~476)",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_ftg53nmzmuy30wde",
+      "name": "김예슬",
+      "day": "수토",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-10-07",
+          "content": "<과제>\n[중등2-2] L2 / 3.1.3 / 필수까지",
           "score": null,
           "comment": ""
         }
