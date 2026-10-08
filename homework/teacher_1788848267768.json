@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-07T09:48:41.171Z",
+  "updatedAt": "2026-10-08T05:09:04.901Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1964,6 +1964,12 @@
           "content": "기출문제(2025)",
           "score": "80",
           "comment": ""
+        },
+        {
+          "date": "2026-10-07",
+          "content": "2.2.1 개념영상,개념유형",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2035,6 +2041,12 @@
           "date": "2026-09-22",
           "content": "기출문제(2025) 전체",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-07",
+          "content": "과제프린트(닮음 복습)",
+          "score": null,
           "comment": ""
         }
       ]
