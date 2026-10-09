@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-09T07:49:06.740Z",
+  "updatedAt": "2026-10-09T09:08:37.545Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -314,6 +314,12 @@
           "content": "1-2 프린트 풀어오기",
           "score": "90",
           "comment": "오답유사 안되어있음"
+        },
+        {
+          "date": "2026-10-09",
+          "content": "1-2 프린트 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -382,6 +388,12 @@
           "date": "2026-10-07",
           "content": "1-2 프린트 풀어오기",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-09",
+          "content": "1-2 프린트 풀어오기",
+          "score": null,
           "comment": ""
         }
       ]
