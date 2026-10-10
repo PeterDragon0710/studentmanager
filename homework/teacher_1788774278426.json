@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-09T23:59:45.795Z",
+  "updatedAt": "2026-10-10T00:13:27.410Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -564,7 +564,7 @@
         {
           "date": "2026-10-08",
           "content": "학기평가/평가대비프린트 2개/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -708,7 +708,7 @@
         {
           "date": "2026-10-08",
           "content": "1.3.3까지 필수예제만/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -765,7 +765,7 @@
         {
           "date": "2026-10-08",
           "content": "3단원 끝내기/3단원평가/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -840,7 +840,7 @@
         {
           "date": "2026-10-08",
           "content": "오답유사 오답정리/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -915,7 +915,7 @@
         {
           "date": "2026-10-08",
           "content": "2단원평가/평가대비 프린트/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
