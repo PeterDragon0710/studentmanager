@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-12T09:52:52.403Z",
+  "updatedAt": "2026-10-12T11:09:50.695Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -78,7 +78,7 @@
         {
           "date": "2026-10-09",
           "content": "프린트 고쳐오기",
-          "score": "40",
+          "score": "50",
           "comment": "나눗셈 부족"
         },
         {
@@ -1248,7 +1248,7 @@
         {
           "date": "2026-10-09",
           "content": "2.2.3 2차학습까지, 2.2.4 개념학습",
-          "score": null,
+          "score": "60",
           "comment": ""
         }
       ]
