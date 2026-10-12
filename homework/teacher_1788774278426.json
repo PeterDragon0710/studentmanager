@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-12T08:16:04.170Z",
+  "updatedAt": "2026-10-12T09:47:56.914Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -79,7 +79,7 @@
           "date": "2026-10-09",
           "content": "2단원 끝까지 필수예제만/",
           "score": "20",
-          "comment": "풀이과정없이 정답만 맞음."
+          "comment": "과정없이 정답만. 화요일 추가등원."
         }
       ]
     },
@@ -251,7 +251,7 @@
         },
         {
           "date": "2026-10-09",
-          "content": "1.2.2까지 1차까지/",
+          "content": "1.2.2까지 2차까지/",
           "score": "100",
           "comment": ""
         }
