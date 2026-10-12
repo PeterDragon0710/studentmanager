@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-12T09:49:56.420Z",
+  "updatedAt": "2026-10-12T10:09:05.810Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -903,7 +903,7 @@
         {
           "date": "2026-10-02",
           "content": "1단원 필수예제 전부/",
-          "score": null,
+          "score": "70",
           "comment": ""
         }
       ]
@@ -918,8 +918,8 @@
         {
           "date": "2026-10-02",
           "content": "2.2.2까지 필수예제만/",
-          "score": null,
-          "comment": ""
+          "score": "50",
+          "comment": "두개 안됨."
         }
       ]
     },
@@ -933,8 +933,8 @@
         {
           "date": "2026-10-02",
           "content": "학기평가/재시대비 프린트/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "오답정리 안됨."
         }
       ]
     }
