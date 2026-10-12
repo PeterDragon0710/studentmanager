@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-12T11:09:50.695Z",
+  "updatedAt": "2026-10-12T11:17:29.461Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -680,7 +680,7 @@
         },
         {
           "date": "2026-10-08",
-          "content": "5단원 완벽하게 마무리, 5단원 그린챌린지",
+          "content": "5단원 완벽하게 마무리, 5단원 그린챌린지, 5단원 연습 문제\n",
           "score": null,
           "comment": ""
         }
@@ -1248,7 +1248,7 @@
         {
           "date": "2026-10-09",
           "content": "2.2.3 2차학습까지, 2.2.4 개념학습",
-          "score": "60",
+          "score": "70",
           "comment": ""
         }
       ]
