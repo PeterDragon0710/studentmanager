@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-12T07:49:50.264Z",
+  "updatedAt": "2026-10-12T07:57:03.131Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -417,7 +417,7 @@
         {
           "date": "2026-10-09",
           "content": "1-2 복습 프린트 풀어오기",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
