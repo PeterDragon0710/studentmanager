@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-12T10:09:05.810Z",
+  "updatedAt": "2026-10-12T12:48:17.750Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -904,6 +904,27 @@
           "date": "2026-10-02",
           "content": "1단원 필수예제 전부/",
           "score": "70",
+          "comment": "하나 안됨."
+        },
+        {
+          "date": "2026-10-12",
+          "content": "1단원 전체 2차/1단원평가/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_cbb10403mv58zql2",
+      "name": "윤예인",
+      "day": "월금",
+      "part": "3부",
+      "school": "치동중",
+      "records": [
+        {
+          "date": "2026-10-12",
+          "content": "2.2.4까지 필수예제만/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -920,6 +941,27 @@
           "content": "2.2.2까지 필수예제만/",
           "score": "50",
           "comment": "두개 안됨."
+        },
+        {
+          "date": "2026-10-12",
+          "content": "2.2.2까지 1차만/",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_37wxuixvmv58zql2",
+      "name": "이노엘",
+      "day": "월금",
+      "part": "3부",
+      "school": "이산중",
+      "records": [
+        {
+          "date": "2026-10-12",
+          "content": "오답정리 전부/2.3.2까지 필수, 1차만/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -935,6 +977,12 @@
           "content": "학기평가/재시대비 프린트/",
           "score": "70",
           "comment": "오답정리 안됨."
+        },
+        {
+          "date": "2026-10-12",
+          "content": "학기 마지막재시/공수1 개념 43번까지 풀기/",
+          "score": null,
+          "comment": ""
         }
       ]
     }
