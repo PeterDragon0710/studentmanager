@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-12T12:48:17.750Z",
+  "updatedAt": "2026-10-13T09:44:55.511Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -519,87 +519,6 @@
       ]
     },
     {
-      "linkId": "stu_67ndupelmttxkot5",
-      "name": "김다율",
-      "day": "화목토",
-      "part": "2부",
-      "school": "한백중",
-      "records": [
-        {
-          "date": "2026-09-08",
-          "content": "3.2.1은 2차까지/3.2.2 개념준비/",
-          "score": "과제안함",
-          "comment": ""
-        },
-        {
-          "date": "2026-09-10",
-          "content": "3.2.2까지 개념준비, 필수, 1차까지만/\n과제 안 될시 남음/",
-          "score": "100",
-          "comment": ""
-        },
-        {
-          "date": "2026-09-12",
-          "content": "3.2.2는 2차까지/3.2.3은 개념준비/",
-          "score": "80",
-          "comment": "이전 개념 암기 다소 아쉬움"
-        },
-        {
-          "date": "2026-09-15",
-          "content": "3.2.3은 1차까지/연습문제/",
-          "score": "70",
-          "comment": "오답정리 미흡 및 친구도움."
-        },
-        {
-          "date": "2026-09-17",
-          "content": "3단원평가/평가대비프린트/",
-          "score": "100",
-          "comment": ""
-        },
-        {
-          "date": "2026-09-19",
-          "content": "3단원 재시/재시대비프린트/",
-          "score": "과제안함",
-          "comment": ""
-        },
-        {
-          "date": "2026-09-22",
-          "content": "4.2.3까지 필수예제만/",
-          "score": "80",
-          "comment": "오답유사 안됨"
-        },
-        {
-          "date": "2026-09-29",
-          "content": "13번 문제 설명준비/안되면 50문제 과제",
-          "score": "과제안함",
-          "comment": ""
-        },
-        {
-          "date": "2026-10-01",
-          "content": "4.2.3까지 1차까지/프린트 50제/",
-          "score": "70",
-          "comment": "오답유사 하나 안됨"
-        },
-        {
-          "date": "2026-10-06",
-          "content": "4단원 2차 마무리/4단원 평가/평가대비프린트/",
-          "score": "40",
-          "comment": "프린트 미지참/오답정리 안됨"
-        },
-        {
-          "date": "2026-10-08",
-          "content": "학기평가/평가대비프린트 2개/",
-          "score": "100",
-          "comment": ""
-        },
-        {
-          "date": "2026-10-10",
-          "content": "학기재시/재시대비프린트/",
-          "score": null,
-          "comment": ""
-        }
-      ]
-    },
-    {
       "linkId": "stu_nywarztnmttxkot5",
       "name": "박예지",
       "day": "화목토",
@@ -663,8 +582,8 @@
         {
           "date": "2026-10-06",
           "content": "3.1.2까지 개념준비/",
-          "score": "100",
-          "comment": ""
+          "score": "40",
+          "comment": "급하게 수업전에 함."
         }
       ]
     },
@@ -726,7 +645,7 @@
         {
           "date": "2026-10-10",
           "content": "학기평가/평가대비프린트/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -807,7 +726,7 @@
         {
           "date": "2026-10-10",
           "content": "3.1.2까지 2차까지/3.2.1까지 개념준비/",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -888,7 +807,7 @@
         {
           "date": "2026-10-10",
           "content": "3.1.3까지 개념준비/",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -915,7 +834,7 @@
       ]
     },
     {
-      "linkId": "stu_cbb10403mv58zql2",
+      "linkId": "stu_uhvwiow1mv6hvrvb",
       "name": "윤예인",
       "day": "월금",
       "part": "3부",
@@ -951,7 +870,7 @@
       ]
     },
     {
-      "linkId": "stu_37wxuixvmv58zql2",
+      "linkId": "stu_uefer1lemv6hvrvb",
       "name": "이노엘",
       "day": "월금",
       "part": "3부",
