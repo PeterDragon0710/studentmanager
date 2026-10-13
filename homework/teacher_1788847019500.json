@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-13T07:50:43.356Z",
+  "updatedAt": "2026-10-13T09:43:15.821Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -894,7 +894,7 @@
         {
           "date": "2026-10-10",
           "content": "1-2 복습 프린트",
-          "score": null,
+          "score": "70",
           "comment": ""
         }
       ]
@@ -969,8 +969,8 @@
         {
           "date": "2026-10-10",
           "content": "학기테스트 연습 프린트",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "오답유사 미흡"
         }
       ]
     },
@@ -1026,7 +1026,7 @@
         {
           "date": "2026-10-10",
           "content": "1단원 프린트",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -1101,8 +1101,8 @@
         {
           "date": "2026-10-10",
           "content": "1-1 유형, 1-2 유형 응용도전, 단원마무리 풀어오기, 37번이후 유형 다음번호 문제만 풀어오기",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "1-2 미흡"
         }
       ]
     },
@@ -1170,7 +1170,7 @@
         {
           "date": "2026-10-10",
           "content": "3단원 대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1233,8 +1233,8 @@
         {
           "date": "2026-10-10",
           "content": "1-1 유형, 1-2 유형 응용도전, 단원마무리 풀어오기, 37번이후 유형 다음번호 문제만 풀어오기",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "1-2 응용도전, 단원 마무리 미흡"
         }
       ]
     },
