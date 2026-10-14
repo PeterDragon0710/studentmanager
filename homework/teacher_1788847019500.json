@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-14T09:04:13.975Z",
+  "updatedAt": "2026-10-14T09:41:12.697Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -374,6 +374,12 @@
           "content": "1.1.1 2차학습까지, 1.1.2 개념학습",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-14",
+          "content": "1-2 1단원 복습 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -454,6 +460,12 @@
           "date": "2026-10-12",
           "content": "3.1.2 2차학습까지",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-14",
+          "content": "1-2 1단원 복습 프린트",
+          "score": null,
           "comment": ""
         }
       ]
@@ -541,6 +553,12 @@
           "date": "2026-10-12",
           "content": "3.2.2 2차학습까지, 3.3.1 필수예제",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-14",
+          "content": "1-2 1단원 복습 프린트",
+          "score": null,
           "comment": ""
         }
       ]
