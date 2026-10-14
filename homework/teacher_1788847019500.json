@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-14T07:50:07.421Z",
+  "updatedAt": "2026-10-14T09:04:13.975Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -372,7 +372,7 @@
         {
           "date": "2026-10-12",
           "content": "1.1.1 2차학습까지, 1.1.2 개념학습",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -453,7 +453,7 @@
         {
           "date": "2026-10-12",
           "content": "3.1.2 2차학습까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -540,7 +540,7 @@
         {
           "date": "2026-10-12",
           "content": "3.2.2 2차학습까지, 3.3.1 필수예제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
