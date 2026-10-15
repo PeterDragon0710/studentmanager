@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-15T07:58:26.225Z",
+  "updatedAt": "2026-10-15T08:04:35.290Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1482,7 +1482,7 @@
         {
           "date": "2026-10-13",
           "content": "2.1.3~2.2.1 (2차학습) / 2.2.2~2.2.3 개념영상,개념유형",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
