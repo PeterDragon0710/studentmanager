@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-15T07:51:49.298Z",
+  "updatedAt": "2026-10-15T09:39:51.005Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -972,8 +972,8 @@
         {
           "date": "2026-10-13",
           "content": "2.2.3 2차학습까지",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "채점 안되어있음"
         }
       ]
     },
@@ -1053,7 +1053,7 @@
         {
           "date": "2026-10-13",
           "content": "학기테스트 재시험 대비 프린트 풀어오기",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -1197,8 +1197,8 @@
         {
           "date": "2026-10-13",
           "content": "1단원 마무리",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "수행은 했으나 교재를 안가져옴"
         }
       ]
     },
@@ -1272,7 +1272,7 @@
         {
           "date": "2026-10-13",
           "content": "3단원 재시험 대비 프린트 풀어오기",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
