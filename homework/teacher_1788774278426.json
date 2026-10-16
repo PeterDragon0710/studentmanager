@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-15T09:31:42.638Z",
+  "updatedAt": "2026-10-16T08:34:33.582Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -90,8 +90,8 @@
         {
           "date": "2026-10-14",
           "content": "2단원 끝까지 2차까지/2단원평가/",
-          "score": null,
-          "comment": ""
+          "score": "50",
+          "comment": "과제 안됨. 수행평가."
         }
       ]
     },
@@ -189,7 +189,7 @@
         {
           "date": "2026-10-14",
           "content": "2.2.4는 1차까지/과정 글씨 안되거나, 다시풀지 않았거나 하면 남음/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -288,8 +288,8 @@
         {
           "date": "2026-10-14",
           "content": "1.3.2까지 개념, 2차까지 풀기/1.3.3 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "오답정리 미흡"
         }
       ]
     },
@@ -474,7 +474,7 @@
         {
           "date": "2026-10-14",
           "content": "2.3.1 2차까지/2단원평가/평가대비프린트/",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
