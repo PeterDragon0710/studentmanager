@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-16T07:47:40.461Z",
+  "updatedAt": "2026-10-16T07:53:11.068Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -91,6 +91,12 @@
           "date": "2026-10-14",
           "content": "나눗셈 다시 고쳐오기, 나눗셈 배운 부분 확실하게 숙지",
           "score": "80",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-16",
+          "content": "나눗셈 프린트",
+          "score": null,
           "comment": ""
         }
       ]
@@ -185,6 +191,12 @@
           "content": "1.1.2 2차학습까지, 1단원 프린트",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-16",
+          "content": "1.2.1 필수예제까지",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -254,6 +266,12 @@
           "content": "4단원평가대비 프린트 풀어오기",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-16",
+          "content": "5.1.1 1차학습까지, 5.1.2 필수예제",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -287,6 +305,12 @@
           "content": "1단원평가 대비 프린트",
           "score": "과제안함",
           "comment": "학원있어서 오늘 12시전까지 과제 마무리한 사진 학원친구 보내는 것으로 대체"
+        },
+        {
+          "date": "2026-10-16",
+          "content": "2.1.1 2차학습까지",
+          "score": null,
+          "comment": ""
         }
       ]
     },
