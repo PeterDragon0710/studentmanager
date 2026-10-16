@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-16T10:09:09.332Z",
+  "updatedAt": "2026-10-16T12:51:07.457Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -1471,6 +1471,12 @@
           "date": "2026-10-12",
           "content": "2.2.4 1차학습까지, 2.3.1 개념학습",
           "score": "90",
+          "comment": "문제는 풀어보았으나 아직 어려워 하는 문제가 많아서 함께 확인"
+        },
+        {
+          "date": "2026-10-16",
+          "content": "2.2.4 2차학습, 2.3.1 필수예제",
+          "score": null,
           "comment": ""
         }
       ]
