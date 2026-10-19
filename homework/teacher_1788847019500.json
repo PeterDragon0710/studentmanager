@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-17T02:57:16.449Z",
+  "updatedAt": "2026-10-19T05:01:26.913Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -195,7 +195,7 @@
         {
           "date": "2026-10-16",
           "content": "1.2.1 필수예제까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -408,7 +408,7 @@
         {
           "date": "2026-10-16",
           "content": "1-2 2단원 복습 프린트",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -501,7 +501,7 @@
         {
           "date": "2026-10-16",
           "content": "1-2 2단원 복습 프린트",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -600,7 +600,7 @@
         {
           "date": "2026-10-16",
           "content": "1-2 2단원 복습 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1373,7 +1373,7 @@
         },
         {
           "date": "2026-10-17",
-          "content": "2,3단원 개념 숙지",
+          "content": "2,3단원 개념 숙지, 3단원 그린챌린지",
           "score": null,
           "comment": ""
         }
