@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-19T05:01:26.913Z",
+  "updatedAt": "2026-10-19T06:36:28.837Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -96,8 +96,8 @@
         {
           "date": "2026-10-16",
           "content": "나눗셈 프린트",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "나눗셈 개념 부족"
         }
       ]
     },
@@ -270,7 +270,7 @@
         {
           "date": "2026-10-16",
           "content": "5.1.1 1차학습까지, 5.1.2 필수예제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -309,8 +309,8 @@
         {
           "date": "2026-10-16",
           "content": "2.1.1 2차학습까지",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "채점 안되어있음"
         }
       ]
     },
@@ -409,7 +409,7 @@
           "date": "2026-10-16",
           "content": "1-2 2단원 복습 프린트",
           "score": "90",
-          "comment": ""
+          "comment": "오답유사 미흡"
         }
       ]
     },
@@ -502,7 +502,7 @@
           "date": "2026-10-16",
           "content": "1-2 2단원 복습 프린트",
           "score": "90",
-          "comment": ""
+          "comment": "오답유사 미흡"
         }
       ]
     },
