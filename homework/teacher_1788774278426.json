@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-17T01:42:08.995Z",
+  "updatedAt": "2026-10-19T08:10:52.347Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -96,8 +96,8 @@
         {
           "date": "2026-10-16",
           "content": "3.1.3까지 필수예제만/",
-          "score": null,
-          "comment": ""
+          "score": "과제안함",
+          "comment": "채점안함&교재미지참"
         }
       ]
     },
@@ -201,7 +201,7 @@
         {
           "date": "2026-10-16",
           "content": "2.2.5 끝내기/2단원평가/3.1.1 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -306,7 +306,7 @@
         {
           "date": "2026-10-16",
           "content": "1단원평가/평가대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -399,7 +399,7 @@
         {
           "date": "2026-10-14",
           "content": "2.4.2는 2차까지/2.4.3 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -498,7 +498,7 @@
         {
           "date": "2026-10-16",
           "content": "2단원 마지막재시/재시대비 프린트/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
