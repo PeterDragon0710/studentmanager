@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-19T12:36:00.613Z",
+  "updatedAt": "2026-10-20T08:09:02.020Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -684,7 +684,7 @@
         {
           "date": "2026-10-17",
           "content": "3.2.3까지 2차까지/3단원평가/평가대비프린트/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -765,7 +765,7 @@
         {
           "date": "2026-10-17",
           "content": "1.2.1까지 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -864,7 +864,7 @@
         {
           "date": "2026-10-17",
           "content": "3.2.3까지 2차까지/3단원평가/평가대비프린트/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -957,8 +957,8 @@
         {
           "date": "2026-10-17",
           "content": "3.3.1까지 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "폰고장으로 인한 사유"
         }
       ]
     },
