@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-21T05:38:00.208Z",
+  "updatedAt": "2026-10-21T09:28:25.406Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -102,6 +102,12 @@
         {
           "date": "2026-10-19",
           "content": "3.1.3까지 2차까지/",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-21",
+          "content": "3.3.1까지 1차만/",
           "score": null,
           "comment": ""
         }
@@ -213,6 +219,12 @@
         {
           "date": "2026-10-19",
           "content": "2단원재시/재시대비 프린트/",
+          "score": "과제안함",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-21",
+          "content": "2단원재시 이어서/재시대비 프린트/",
           "score": null,
           "comment": ""
         }
@@ -324,6 +336,12 @@
         {
           "date": "2026-10-19",
           "content": "2.1.3까지 필수예제만/",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-21",
+          "content": "2.2.3까지 필수예제만",
           "score": null,
           "comment": ""
         }
@@ -423,6 +441,12 @@
         {
           "date": "2026-10-19",
           "content": "2.5.1 개념준비/매쓰플랫문제/",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-21",
+          "content": "2.5.1은 2차까지/2.5.2는 매쓰플랫 강의듣기/",
           "score": null,
           "comment": ""
         }
@@ -1100,7 +1124,7 @@
         },
         {
           "date": "2026-10-19",
-          "content": "3단원 끝까지 필수예제, 1차까지/",
+          "content": "3단원 끝까지 필수예제만/",
           "score": null,
           "comment": ""
         }
