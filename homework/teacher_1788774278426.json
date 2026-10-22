@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-21T09:48:09.926Z",
+  "updatedAt": "2026-10-22T08:26:08.429Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -714,7 +714,7 @@
         {
           "date": "2026-10-20",
           "content": "4.1.1은 2차까지/4.2.1 개념준비/",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -801,7 +801,7 @@
         {
           "date": "2026-10-20",
           "content": "문제프린트/1.2.2 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -906,7 +906,7 @@
         {
           "date": "2026-10-20",
           "content": "3단원재시/3단원 재시대비프린트/",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -1005,7 +1005,7 @@
         {
           "date": "2026-10-20",
           "content": "3.2.2까지 2차까지/3.3.1 개념준비/3.3.1 필수예제만/",
-          "score": null,
+          "score": "70",
           "comment": ""
         }
       ]
