@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-21T12:05:31.196Z",
+  "updatedAt": "2026-10-22T05:03:02.590Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -219,7 +219,7 @@
         {
           "date": "2026-10-21",
           "content": "1단원 프린트, 1단원 마무리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -822,7 +822,7 @@
         {
           "date": "2026-10-20",
           "content": "5.2.2 1차학습까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -897,7 +897,7 @@
         {
           "date": "2026-10-20",
           "content": "6단원 재시험프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -972,7 +972,7 @@
         {
           "date": "2026-10-20",
           "content": "6.1.4 개념학습, 6.1.2 2차학습까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1046,8 +1046,8 @@
         },
         {
           "date": "2026-10-20",
-          "content": "6.1.1, 6.1.2, 6.2.1 개념학습",
-          "score": null,
+          "content": "6.1.1, 6.2.1 개념학습",
+          "score": "100",
           "comment": ""
         }
       ]
