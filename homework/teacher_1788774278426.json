@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-22T09:52:44.263Z",
+  "updatedAt": "2026-10-22T10:07:13.179Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -1184,6 +1184,36 @@
           "content": "23페이지까지 끝내기/",
           "score": null,
           "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_02ye76vxmvjdn40r",
+      "name": "임승준",
+      "day": "화목",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-10-20",
+          "content": "내신대비교재 3회차 풀어오기",
+          "score": "과제안함",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_fu2xf4zamvjdn40r",
+      "name": "임수아",
+      "day": "화목",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-10-20",
+          "content": "원의성질 연습문제 프린트",
+          "score": "60",
+          "comment": "급하게 하고 오답정리 안됨. (수행평가로 인함)"
         }
       ]
     }
