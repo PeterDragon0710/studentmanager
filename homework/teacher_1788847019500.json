@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-23T10:53:19.125Z",
+  "updatedAt": "2026-10-23T11:48:13.970Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -1760,6 +1760,12 @@
           "content": "2.3.1 2차학습, 2.3.2 필수예제",
           "score": "90",
           "comment": "모르는 부분은 같이 확인"
+        },
+        {
+          "date": "2026-10-23",
+          "content": "2단원 복습 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
