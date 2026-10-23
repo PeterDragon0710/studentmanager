@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-23T10:06:09.913Z",
+  "updatedAt": "2026-10-23T10:53:19.125Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -1753,13 +1753,13 @@
           "date": "2026-10-16",
           "content": "2.2.4 2차학습, 2.3.1 필수예제",
           "score": "90",
-          "comment": ""
+          "comment": "모르는 문제는 같이 확인"
         },
         {
           "date": "2026-10-19",
           "content": "2.3.1 2차학습, 2.3.2 필수예제",
           "score": "90",
-          "comment": ""
+          "comment": "모르는 부분은 같이 확인"
         }
       ]
     },
