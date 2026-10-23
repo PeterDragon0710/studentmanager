@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-23T10:06:38.843Z",
+  "updatedAt": "2026-10-23T12:52:07.238Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -109,6 +109,12 @@
           "date": "2026-10-21",
           "content": "3.3.1까지 1차만/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "3단원끝내기/3단원평가/평가대비 프린트/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1076,6 +1082,12 @@
           "content": "2.2.4까지 2차까지/2.3.3까지 개념유형학습/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "2단원 끝내기/2단원평가/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1102,6 +1114,12 @@
           "date": "2026-10-19",
           "content": "3단원 끝까지 1차까지/",
           "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "3단원평가/평가대비프린트/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1136,6 +1154,12 @@
           "content": "2.3.2까지 1차만/2단원평가/",
           "score": "80",
           "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "확률단원 개념듣고 개념유형 완성해오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1161,7 +1185,13 @@
         {
           "date": "2026-10-19",
           "content": "3단원 끝까지 필수예제만/",
-          "score": "50",
+          "score": "40",
+          "comment": "채점 안됨"
+        },
+        {
+          "date": "2026-10-23",
+          "content": "3.2.1까지 1차만/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1195,6 +1225,12 @@
           "date": "2026-10-19",
           "content": "23페이지까지 끝내기/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "19페이지 나머지정리까지만 개념교재",
+          "score": null,
           "comment": ""
         }
       ]
