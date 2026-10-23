@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-23T12:53:26.283Z",
+  "updatedAt": "2026-10-23T23:43:32.335Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -2692,6 +2692,12 @@
           "date": "2026-10-16",
           "content": "과제프린트(평행선 복습)",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "과제프린트(2.2.3 평행선)",
+          "score": null,
           "comment": ""
         }
       ]
