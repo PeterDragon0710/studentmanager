@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-23T05:09:44.768Z",
+  "updatedAt": "2026-10-23T07:49:05.993Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -108,7 +108,7 @@
         {
           "date": "2026-10-21",
           "content": "나눗셈 프린트 15문제 고치고, 완벽숙지해오기\n미숙지시 다음시간 남아서 숙지할때까지 남아서 공부",
-          "score": null,
+          "score": "40",
           "comment": ""
         }
       ]
@@ -306,7 +306,7 @@
         {
           "date": "2026-10-21",
           "content": "5.2.1 2차학습, 5.2.2 필수예제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -357,7 +357,7 @@
         {
           "date": "2026-10-21",
           "content": "2.2.1 2차학습까지, 2.2.2 필수예제",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
