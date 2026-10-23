@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-23T08:08:13.239Z",
+  "updatedAt": "2026-10-23T10:04:11.067Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -344,6 +344,12 @@
           "content": "2.2.3까지 필수예제만",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "2.2.3까지 2차까지/2단원 평가/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -448,6 +454,12 @@
           "date": "2026-10-21",
           "content": "2.5.1은 2차까지/2.5.2는 매쓰플랫 강의듣기/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "2.6.3까지 개념준비/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1062,7 +1074,7 @@
         {
           "date": "2026-10-19",
           "content": "2.2.4까지 2차까지/2.3.3까지 개념유형학습/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1089,7 +1101,7 @@
         {
           "date": "2026-10-19",
           "content": "3단원 끝까지 1차까지/",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -1122,7 +1134,7 @@
         {
           "date": "2026-10-19",
           "content": "2.3.2까지 1차만/2단원평가/",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -1182,7 +1194,7 @@
         {
           "date": "2026-10-19",
           "content": "23페이지까지 끝내기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
