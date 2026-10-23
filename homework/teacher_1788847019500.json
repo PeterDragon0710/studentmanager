@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-23T07:52:51.139Z",
+  "updatedAt": "2026-10-23T09:47:09.019Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -593,6 +593,12 @@
           "content": "1-2 3단원 프린트, 3.1.3 2차학습",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "3.2.1 2차학습까지",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -703,6 +709,12 @@
           "date": "2026-10-21",
           "content": "1-2 3단원 프린트, 학기테스트 오답유사",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-23",
+          "content": "1.1.1 2차학습까지, 1.1.2 개념학습",
+          "score": null,
           "comment": ""
         }
       ]
