@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-24T00:19:49.327Z",
+  "updatedAt": "2026-10-24T00:53:49.663Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -739,7 +739,7 @@
           "date": "2026-10-22",
           "content": "4.2.2까지 2차까지/4.2.3 개념준비/",
           "score": "50",
-          "comment": "오답정리 다소 미흡"
+          "comment": "개념, 오답정리 미흡."
         }
       ]
     },
@@ -832,7 +832,7 @@
           "date": "2026-10-22",
           "content": "1.2.2까지 필수, 1차만/",
           "score": "80",
-          "comment": ""
+          "comment": "일부 못 풀어옴."
         }
       ]
     },
