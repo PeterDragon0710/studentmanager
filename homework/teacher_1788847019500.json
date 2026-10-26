@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-26T09:42:15.045Z",
+  "updatedAt": "2026-10-26T12:04:06.240Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -1842,7 +1842,7 @@
         {
           "date": "2026-10-23",
           "content": "2단원 복습 프린트",
-          "score": null,
+          "score": "70",
           "comment": ""
         }
       ]
