@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-26T09:43:04.709Z",
+  "updatedAt": "2026-10-26T10:17:23.052Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -1152,7 +1152,7 @@
         {
           "date": "2026-10-23",
           "content": "2단원 끝내기/2단원평가/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1185,8 +1185,8 @@
         {
           "date": "2026-10-23",
           "content": "3단원평가/평가대비프린트/",
-          "score": null,
-          "comment": ""
+          "score": "50",
+          "comment": "오답정리 안됨."
         }
       ]
     },
@@ -1224,7 +1224,7 @@
         {
           "date": "2026-10-23",
           "content": "확률단원 개념듣고 개념유형 완성해오기",
-          "score": null,
+          "score": "50",
           "comment": ""
         }
       ]
@@ -1257,7 +1257,7 @@
         {
           "date": "2026-10-23",
           "content": "3.2.1까지 1차만/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1296,7 +1296,7 @@
         {
           "date": "2026-10-23",
           "content": "19페이지 나머지정리까지만 개념교재",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
