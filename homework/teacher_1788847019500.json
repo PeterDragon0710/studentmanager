@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-26T12:04:06.240Z",
+  "updatedAt": "2026-10-26T12:32:32.719Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -1843,6 +1843,12 @@
           "date": "2026-10-23",
           "content": "2단원 복습 프린트",
           "score": "70",
+          "comment": "모르는 문제가 많아 개념 복습 필요"
+        },
+        {
+          "date": "2026-10-26",
+          "content": "2단원 복습 프린트 스스로 고쳐보기,",
+          "score": null,
           "comment": ""
         }
       ]
