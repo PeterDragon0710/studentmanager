@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-27T05:10:40.331Z",
+  "updatedAt": "2026-10-27T05:55:58.314Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -993,8 +993,8 @@
         {
           "date": "2026-10-22",
           "content": "TOMA 1차대비, 6단원 프린트",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "월간평가 오답유사 미흡"
         }
       ]
     },
@@ -1074,8 +1074,8 @@
         {
           "date": "2026-10-22",
           "content": "TOMA 1차대비, 6단원 프린트",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "프린트 두고옴"
         }
       ]
     },
@@ -1155,7 +1155,7 @@
         {
           "date": "2026-10-22",
           "content": "TOMA 1차대비, 6.1.2 2차학습까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
