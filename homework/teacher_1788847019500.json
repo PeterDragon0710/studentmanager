@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-27T05:55:58.314Z",
+  "updatedAt": "2026-10-27T07:30:00.128Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -833,6 +833,12 @@
           "content": "TOMA 1차대비, 3단원 프린트",
           "score": "60",
           "comment": "월말대비 성취도가 낮음"
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA 2차대비",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -913,6 +919,12 @@
           "date": "2026-10-22",
           "content": "TOMA 1차대비, 6.1.1 개념학습, 필수예제까지",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA 2차대비",
+          "score": null,
           "comment": ""
         }
       ]
@@ -995,6 +1007,12 @@
           "content": "TOMA 1차대비, 6단원 프린트",
           "score": "90",
           "comment": "월간평가 오답유사 미흡"
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA 2차대비",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1076,6 +1094,12 @@
           "content": "TOMA 1차대비, 6단원 프린트",
           "score": "80",
           "comment": "프린트 두고옴"
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA 2차대비",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1156,6 +1180,12 @@
           "date": "2026-10-22",
           "content": "TOMA 1차대비, 6.1.2 2차학습까지",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA 2차대비",
+          "score": null,
           "comment": ""
         }
       ]
