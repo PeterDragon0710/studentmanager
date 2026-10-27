@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-27T07:30:00.128Z",
+  "updatedAt": "2026-10-27T08:11:36.104Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -1290,7 +1290,7 @@
         {
           "date": "2026-10-24",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1401,7 +1401,7 @@
         {
           "date": "2026-10-24",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1494,7 +1494,7 @@
         {
           "date": "2026-10-24",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1605,7 +1605,7 @@
         {
           "date": "2026-10-24",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1704,8 +1704,8 @@
         {
           "date": "2026-10-24",
           "content": "TOMA 1차대비",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "풀긴했으나 안가져옴"
         }
       ]
     },
@@ -1803,7 +1803,7 @@
         {
           "date": "2026-10-24",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
