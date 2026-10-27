@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-27T09:48:32.376Z",
+  "updatedAt": "2026-10-27T12:50:52.868Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -1920,6 +1920,21 @@
       ]
     },
     {
+      "linkId": "stu_7e5lu7axmvqoou9w",
+      "name": "정재형",
+      "day": "화목",
+      "part": "3부",
+      "school": "다원중",
+      "records": [
+        {
+          "date": "2026-10-27",
+          "content": "삼각형의 닮음 조건 전까지 문제 풀어오기",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
       "linkId": "stu_zms52jo6mtwj1q1e",
       "name": "이태규",
       "day": "화목",
@@ -1959,6 +1974,12 @@
         {
           "date": "2026-10-22",
           "content": "2.3.1 2차학습까지",
+          "score": "과제안함",
+          "comment": "학생이 금요일부터 월요일까지 독감에 걸려서 휴식에 집중했다고 함.(학교도 결석)"
+        },
+        {
+          "date": "2026-10-27",
+          "content": "2.3.2 필수예제까지",
           "score": null,
           "comment": ""
         }
