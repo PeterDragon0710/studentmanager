@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-27T09:22:42.382Z",
+  "updatedAt": "2026-10-27T09:54:34.411Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1772,6 +1772,12 @@
           "content": "1.1.1 (1차, 2차학습) / 월말평가대비",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1870,6 +1876,12 @@
           "date": "2026-10-24",
           "content": "3.1.2 (1차학습) / 월말평가대비",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA연습2회 프린트",
+          "score": null,
           "comment": ""
         }
       ]
@@ -2069,6 +2081,12 @@
           "content": "과제프린트(2단원 복습)",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2180,6 +2198,12 @@
           "content": "3.2.2~3.3.1 (1차학습) / 월말평가대비",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2285,6 +2309,12 @@
           "content": "2.3.1~2.3.2 (2차학습) / 월말평가대비",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2389,6 +2419,12 @@
           "date": "2026-10-24",
           "content": "2.2.2 (1차, 2차학습) / 월말평가대비",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-27",
+          "content": "TOMA연습2회 프린트",
+          "score": null,
           "comment": ""
         }
       ]
