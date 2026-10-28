@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-28T08:15:20.709Z",
+  "updatedAt": "2026-10-28T08:17:02.677Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1100,6 +1100,12 @@
           "content": "5.2.1 그린챌린지 전체 (직접 도전) / 월말평가대비",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1216,6 +1222,12 @@
           "date": "2026-10-26",
           "content": "과제프린트(2단원 그린챌린지) / 월말평가대비",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1340,6 +1352,12 @@
           "content": "5.2.1 (2차학습) / 월말평가대비",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1463,6 +1481,12 @@
           "content": "2.1.1~2.1.2 (1차, 2차학습) / 월말평가대비",
           "score": "90",
           "comment": "오답유사(2.1.1 : 2차) 미완료."
+        },
+        {
+          "date": "2026-10-28",
+          "content": "TOMA 연습2회 프린트 / 2.1.1 (2차학습 - 오답유사학습)",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1579,6 +1603,12 @@
           "date": "2026-10-26",
           "content": "1단원 그린챌린지 전체(직접 도전) / 월말평가대비",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1702,6 +1732,12 @@
           "date": "2026-10-26",
           "content": "2단원 그린챌린지 전체 (직접 도전) / 월말평가대비",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
           "comment": ""
         }
       ]
