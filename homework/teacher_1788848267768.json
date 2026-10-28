@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-28T08:12:07.956Z",
+  "updatedAt": "2026-10-28T08:15:20.709Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1461,8 +1461,8 @@
         {
           "date": "2026-10-26",
           "content": "2.1.1~2.1.2 (1차, 2차학습) / 월말평가대비",
-          "score": "100",
-          "comment": ""
+          "score": "90",
+          "comment": "오답유사(2.1.1 : 2차) 미완료."
         }
       ]
     },
