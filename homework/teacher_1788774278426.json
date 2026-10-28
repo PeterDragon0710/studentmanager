@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-27T08:06:57.319Z",
+  "updatedAt": "2026-10-28T08:04:27.834Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -120,7 +120,7 @@
         {
           "date": "2026-10-26",
           "content": "새교재 1.1.2까지 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -243,7 +243,7 @@
         {
           "date": "2026-10-26",
           "content": "3.1.1은 2차까지/3.1.3까지 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -372,7 +372,7 @@
         {
           "date": "2026-10-26",
           "content": "2단원재시/재시대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -489,7 +489,7 @@
         {
           "date": "2026-10-26",
           "content": "2.6.3까지 1차까지만/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -564,7 +564,7 @@
         {
           "date": "2026-10-26",
           "content": "2.1.3까지 2차까지/",
-          "score": null,
+          "score": "20",
           "comment": ""
         }
       ]
@@ -997,7 +997,7 @@
           "date": "2026-10-24",
           "content": "3.3.1은 2차까지/3.3.2 개념준비",
           "score": "70",
-          "comment": ""
+          "comment": "오답정리 안됨"
         }
       ]
     },
