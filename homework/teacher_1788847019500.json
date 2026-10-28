@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-27T12:50:52.868Z",
+  "updatedAt": "2026-10-28T07:55:32.953Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -243,7 +243,7 @@
         {
           "date": "2026-10-26",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -342,7 +342,7 @@
         {
           "date": "2026-10-26",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -405,7 +405,7 @@
         {
           "date": "2026-10-26",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -522,7 +522,7 @@
         {
           "date": "2026-10-26",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -633,7 +633,7 @@
         {
           "date": "2026-10-26",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -756,7 +756,7 @@
         {
           "date": "2026-10-26",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1920,7 +1920,7 @@
       ]
     },
     {
-      "linkId": "stu_7e5lu7axmvqoou9w",
+      "linkId": "stu_0pefgeu5mvrtkw61",
       "name": "정재형",
       "day": "화목",
       "part": "3부",
