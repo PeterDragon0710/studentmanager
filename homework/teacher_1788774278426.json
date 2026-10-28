@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-28T08:04:27.834Z",
+  "updatedAt": "2026-10-28T09:54:26.875Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -121,6 +121,12 @@
           "date": "2026-10-26",
           "content": "새교재 1.1.2까지 개념준비/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "월간평가 대비 2차 풀기",
+          "score": null,
           "comment": ""
         }
       ]
@@ -244,6 +250,12 @@
           "date": "2026-10-26",
           "content": "3.1.1은 2차까지/3.1.3까지 개념준비/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "월간평가 대비 2차 풀기",
+          "score": null,
           "comment": ""
         }
       ]
@@ -374,6 +386,12 @@
           "content": "2단원재시/재시대비 프린트",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "월간평가 대비 2차 풀기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -491,6 +509,12 @@
           "content": "2.6.3까지 1차까지만/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "월간평가 대비 2차 풀기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -565,6 +589,12 @@
           "date": "2026-10-26",
           "content": "2.1.3까지 2차까지/",
           "score": "20",
+          "comment": "채점안됨"
+        },
+        {
+          "date": "2026-10-28",
+          "content": "2.1.3까지 2차까지/",
+          "score": null,
           "comment": ""
         }
       ]
