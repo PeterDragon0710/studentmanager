@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-10-28T07:52:09.254Z",
+  "updatedAt": "2026-10-28T10:22:43.889Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -90,12 +90,12 @@
         {
           "date": "2026-10-23",
           "content": "<진도>\n1-2 L3 4단원평가\n1-2 수행평가 대비\n\n<과제>\n1-2 L3 1~4단원 그린챌린지(2026.10.23)",
-          "score": null,
+          "score": "100",
           "comment": ""
         },
         {
           "date": "2026-10-28",
-          "content": "<진도>\n1-2 L3 학기테스트\n1-2 L3 전단원 그린챌린지(2026.10.28)",
+          "content": "<진도>\n1-2 L3 학기테스트\n1-2 L3 전단원 그린챌린지(2026.10.28)\n\n<과제>\n2-1 개념 1.1.1~1.1.2 개념영상 및 개념유형",
           "score": null,
           "comment": ""
         }
@@ -1472,6 +1472,12 @@
           "content": "<진도>\n[라이트쎈] 중등 2-2 2.2단원 테스트\n2-2 쎈 닮음의 활용 A~B Traning\n\n<과제>\n2-2 쎈 닮음의 활용 A~B Traning",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "<진도>\n2-2 쎈 피타고라스 A~B Traning",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1509,12 +1515,18 @@
         {
           "date": "2026-10-21",
           "content": "<진도>\n2-2 L2 2~3단원 그린챌린지(2026.10.21)\n\n<과제>\n2-2 L2 2~3단원 그린챌린지(2026.10.21)\n2-2 라이트쎈 닮음 B Traning\n",
-          "score": null,
+          "score": "100",
           "comment": ""
         },
         {
           "date": "2026-10-24",
           "content": "<과제>\n2-2 라이트쎈 평행선 닮음 B Traning",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-10-28",
+          "content": "<진도>\n2-2 라이트쎈 삼각형의 무게중심 A~B Traning",
           "score": null,
           "comment": ""
         }
