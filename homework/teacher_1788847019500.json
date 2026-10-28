@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-28T07:55:32.953Z",
+  "updatedAt": "2026-10-28T09:12:37.098Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -120,7 +120,7 @@
         {
           "date": "2026-10-26",
           "content": "TOMA 1차대비",
-          "score": null,
+          "score": "50",
           "comment": ""
         }
       ]
@@ -1920,7 +1920,7 @@
       ]
     },
     {
-      "linkId": "stu_0pefgeu5mvrtkw61",
+      "linkId": "stu_1wfz1hyrmvrwc06i",
       "name": "정재형",
       "day": "화목",
       "part": "3부",
