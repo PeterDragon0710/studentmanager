@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-28T09:54:26.875Z",
+  "updatedAt": "2026-10-29T09:35:29.037Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -701,6 +701,12 @@
           "content": "4.2.3의 필수, 1차까지만/",
           "score": "30",
           "comment": "풀고 채점안됨."
+        },
+        {
+          "date": "2026-10-27",
+          "content": "월간평가 대비 프린트",
+          "score": "60",
+          "comment": "오답정리 안됨."
         }
       ]
     },
