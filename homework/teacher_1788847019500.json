@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-29T07:15:20.960Z",
+  "updatedAt": "2026-10-29T07:35:41.864Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -884,7 +884,7 @@
         },
         {
           "date": "2026-10-29",
-          "content": "4.1.1, 4.1.2 개념학습, 개념유형,",
+          "content": "4.1.1, 4.1.2 개념학습, 개념유형, 2단원 프린트",
           "score": null,
           "comment": ""
         }
@@ -1992,7 +1992,7 @@
       ]
     },
     {
-      "linkId": "stu_krdoyudvmvt7l1q8",
+      "linkId": "stu_67jnqjhtmvt8b7s8",
       "name": "정재형",
       "day": "화목",
       "part": "3부",
