@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-29T09:52:38.237Z",
+  "updatedAt": "2026-10-29T12:52:58.752Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -2037,6 +2037,12 @@
         {
           "date": "2026-10-27",
           "content": "삼각형의 닮음 조건 전까지 문제 풀어오기",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-29",
+          "content": "삼각형의 닮음조건까지 문제풀고 오답 고쳐오기",
           "score": null,
           "comment": ""
         }
@@ -2088,6 +2094,12 @@
         {
           "date": "2026-10-27",
           "content": "2.3.2 필수예제까지",
+          "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-29",
+          "content": "3.1.1, 3.1.2 마무리",
           "score": null,
           "comment": ""
         }
