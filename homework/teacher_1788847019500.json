@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-30T07:06:05.561Z",
+  "updatedAt": "2026-10-30T07:16:45.370Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -127,6 +127,12 @@
           "date": "2026-10-28",
           "content": "TOMA 2차대비",
           "score": "50",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "나눗셈 프린트",
+          "score": null,
           "comment": ""
         }
       ]
@@ -257,6 +263,12 @@
           "content": "TOMA 2차대비",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "2.1.2 2차학습까지, 2.2.1 필수예제",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -362,6 +374,12 @@
           "content": "TOMA 2차대비",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "6.1.2 2차학습까지, 평균 복습 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -429,7 +447,13 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 2차대비",
-          "score": "70",
+          "score": "50",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "2단원 프린트",
+          "score": null,
           "comment": ""
         }
       ]
