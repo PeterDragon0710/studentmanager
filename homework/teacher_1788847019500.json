@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-30T09:58:27.486Z",
+  "updatedAt": "2026-10-30T11:08:51.144Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -920,7 +920,7 @@
         },
         {
           "date": "2026-10-29",
-          "content": "4.1.1, 4.1.2 개념학습, 개념유형, 2단원 프린트",
+          "content": "4.1.1, 4.1.2 개념학습, 개념유형, 월말 복습 2단원 프린트",
           "score": null,
           "comment": ""
         }
@@ -1287,12 +1287,12 @@
         {
           "date": "2026-10-27",
           "content": "TOMA 2차대비",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "채점안함"
         },
         {
           "date": "2026-10-29",
-          "content": "6단원 마무리, 2단원 프린트",
+          "content": "6단원 마무리, 월말 복습 2단원 프린트",
           "score": null,
           "comment": ""
         }
