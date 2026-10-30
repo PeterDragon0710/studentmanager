@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-30T09:08:52.469Z",
+  "updatedAt": "2026-10-30T09:58:27.486Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -2058,7 +2058,7 @@
         {
           "date": "2026-10-26",
           "content": "2단원 복습 프린트 스스로 고쳐보기, 3.1.1, 3.1.2 1차학습만",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
