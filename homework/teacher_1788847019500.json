@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-30T06:37:41.783Z",
+  "updatedAt": "2026-10-30T07:06:05.561Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -429,7 +429,7 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 2차대비",
-          "score": "과제안함",
+          "score": "70",
           "comment": ""
         }
       ]
