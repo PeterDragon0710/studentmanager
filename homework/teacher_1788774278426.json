@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-30T09:12:24.845Z",
+  "updatedAt": "2026-10-30T09:32:21.493Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -255,7 +255,7 @@
         {
           "date": "2026-10-28",
           "content": "월간평가 대비 2차 풀기",
-          "score": "80",
+          "score": "70",
           "comment": ""
         }
       ]
@@ -595,7 +595,7 @@
           "date": "2026-10-28",
           "content": "2.1.3까지 2차까지/",
           "score": "60",
-          "comment": ""
+          "comment": "채점은 했으나 0점."
         }
       ]
     },
