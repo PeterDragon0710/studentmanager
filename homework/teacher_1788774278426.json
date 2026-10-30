@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-29T09:40:18.588Z",
+  "updatedAt": "2026-10-30T09:12:24.845Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -126,7 +126,7 @@
         {
           "date": "2026-10-28",
           "content": "월간평가 대비 2차 풀기",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -255,7 +255,7 @@
         {
           "date": "2026-10-28",
           "content": "월간평가 대비 2차 풀기",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -390,7 +390,7 @@
         {
           "date": "2026-10-28",
           "content": "월간평가 대비 2차 풀기",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -513,7 +513,7 @@
         {
           "date": "2026-10-28",
           "content": "월간평가 대비 2차 풀기",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -594,7 +594,7 @@
         {
           "date": "2026-10-28",
           "content": "2.1.3까지 2차까지/",
-          "score": null,
+          "score": "60",
           "comment": ""
         }
       ]
