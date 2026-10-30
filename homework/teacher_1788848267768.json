@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-10-29T12:47:29.353Z",
+  "updatedAt": "2026-10-30T07:08:49.638Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -126,6 +126,12 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 연습2회 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "과제프린트(1~5단원 복습)",
           "score": null,
           "comment": ""
         }
@@ -249,6 +255,12 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 연습2회 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "과제프린트(4단원 그린챌린지)",
           "score": null,
           "comment": ""
         }
@@ -366,6 +378,12 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 연습2회 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "3.2.2 (1차, 2차학습)",
           "score": null,
           "comment": ""
         }
@@ -489,6 +507,12 @@
         {
           "date": "2026-10-26",
           "content": "3.2.1 (2차학습) / TOMA 연습1회",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "과제프린트(3단원 그린챌린지)",
           "score": null,
           "comment": ""
         }
@@ -606,6 +630,12 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 연습2회 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "과제프린트(4단원 복습)",
           "score": null,
           "comment": ""
         }
@@ -735,6 +765,12 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 연습2회 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "5.2.1~5.2.2 개념영상,개념유형 (5.2.2 : L2 수업 들어가서 영상만 시청)",
           "score": null,
           "comment": ""
         }
@@ -858,6 +894,12 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 연습2회 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-10-30",
+          "content": "4.1.3 (1차) / 4.1.1~4.1.3 (2차학습)",
           "score": null,
           "comment": ""
         }
