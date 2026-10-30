@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-10-29T12:52:58.752Z",
+  "updatedAt": "2026-10-30T06:37:41.783Z",
   "students": [
     {
       "linkId": "stu_gjymkpehmtwj0303",
@@ -126,7 +126,7 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 2차대비",
-          "score": null,
+          "score": "50",
           "comment": ""
         }
       ]
@@ -255,7 +255,7 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 2차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -360,7 +360,7 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 2차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -429,7 +429,7 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 2차대비",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         }
       ]
@@ -552,7 +552,7 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 2차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -798,7 +798,7 @@
         {
           "date": "2026-10-28",
           "content": "TOMA 2차대비",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
