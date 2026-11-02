@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-10-31T01:56:40.658Z",
+  "updatedAt": "2026-11-02T08:06:21.060Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -132,8 +132,8 @@
         {
           "date": "2026-10-30",
           "content": "외심내심 필수,1차까지만",
-          "score": null,
-          "comment": ""
+          "score": "60",
+          "comment": "5분지각, 과제 일부 안됨."
         }
       ]
     },
@@ -267,7 +267,7 @@
         {
           "date": "2026-10-30",
           "content": "3.1.1은 2차까지/3.1.3까지 개념준비/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -408,7 +408,7 @@
         {
           "date": "2026-10-30",
           "content": "과제없음/ 이어서 예정/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -537,7 +537,7 @@
         {
           "date": "2026-10-30",
           "content": "과제없음/ 이어서 예정/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -624,8 +624,8 @@
         {
           "date": "2026-10-30",
           "content": "2.1.3까지 2차까지 다시 풀기/(오답정리 꼭 하고 다음 것 풀기)/2.2.1 개념준비/",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "1차 채점 안됨/"
         }
       ]
     },
