@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-02T09:53:59.306Z",
+  "updatedAt": "2026-11-02T12:42:24.048Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -1326,7 +1326,7 @@
         {
           "date": "2026-10-30",
           "content": "3.2.3까지 1차 전부/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1365,8 +1365,8 @@
         {
           "date": "2026-10-26",
           "content": "L1 교재 유형별 2개씩 풀고 채점 후 오답정리까지/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "채점안됨"
         }
       ]
     },
@@ -1416,7 +1416,7 @@
         {
           "date": "2026-10-30",
           "content": "확률 연습 프린트 풀고 채점 후 오답정리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1461,7 +1461,7 @@
         {
           "date": "2026-10-30",
           "content": "확률 연습 프린트 풀고 채점 후 오답정리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1512,7 +1512,7 @@
         {
           "date": "2026-10-30",
           "content": "유형별 나머지 문제 전부/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
