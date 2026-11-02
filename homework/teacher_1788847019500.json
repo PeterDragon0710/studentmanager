@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-02T08:35:48.564Z",
+  "updatedAt": "2026-11-02T09:37:11.733Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -467,6 +467,12 @@
           "content": "1-2 4단원 복습 프린트",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-02",
+          "content": "1-2 1,2단원 복습",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -601,6 +607,12 @@
           "date": "2026-10-30",
           "content": "1-2 4단원 복습 프린트",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-02",
+          "content": "1-2 1,2단원 복습",
+          "score": null,
           "comment": ""
         }
       ]
