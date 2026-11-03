@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-02T12:47:12.693Z",
+  "updatedAt": "2026-11-03T07:47:40.646Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -699,6 +699,12 @@
         {
           "date": "2026-10-29",
           "content": "4.1.1, 4.1.2 개념학습, 개념유형, 월말 복습 2단원 프린트",
+          "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-03",
+          "content": "4.1.1 마무리, 4.1.2 필수예제까지",
           "score": null,
           "comment": ""
         }
@@ -792,6 +798,12 @@
         {
           "date": "2026-10-29",
           "content": "6.1.2, 6.2.1 개념학습, 개념유형",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-03",
+          "content": "6단원 마무리",
           "score": null,
           "comment": ""
         }
@@ -885,6 +897,27 @@
         {
           "date": "2026-10-29",
           "content": "학기테스트 대비 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-03",
+          "content": "1.1.1 마무리, 1.1.2 개념학습",
+          "score": null,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "linkId": "stu_yxo4m5gkmw0dxvqd",
+      "name": "임온조",
+      "day": "화목토",
+      "part": "1부",
+      "school": "다원초",
+      "records": [
+        {
+          "date": "2026-11-03",
+          "content": "4.1.1 2차학습까지",
           "score": null,
           "comment": ""
         }
@@ -978,6 +1011,12 @@
         {
           "date": "2026-10-29",
           "content": "학기테스트 대비 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-03",
+          "content": "1~6단원 그린챌린지",
           "score": null,
           "comment": ""
         }
@@ -1071,6 +1110,12 @@
         {
           "date": "2026-10-29",
           "content": "6단원 마무리, 월말 복습 2단원 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-03",
+          "content": "1.1.1 마무리, 1.1.2 필수예제까지",
           "score": null,
           "comment": ""
         }
@@ -1194,8 +1239,8 @@
         {
           "date": "2026-10-31",
           "content": "1-2 복습 프린트",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "오답유사 미흡"
         }
       ]
     },
