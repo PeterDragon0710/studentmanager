@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-04T09:47:49.512Z",
+  "updatedAt": "2026-11-04T09:51:41.265Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -584,7 +584,7 @@
         },
         {
           "date": "2026-11-04",
-          "content": "2.7.1은 2차까지/2.7.2 개념준비/",
+          "content": "2.7.1은 필수예제만/",
           "score": null,
           "comment": ""
         }
