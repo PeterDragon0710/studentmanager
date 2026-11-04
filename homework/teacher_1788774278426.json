@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-04T08:52:10.157Z",
+  "updatedAt": "2026-11-04T09:09:21.079Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -561,7 +561,7 @@
         {
           "date": "2026-11-02",
           "content": "2.6.3은 2차까지/2.7.1은 개념준비/",
-          "score": "100",
+          "score": "80",
           "comment": ""
         }
       ]
@@ -655,7 +655,7 @@
           "date": "2026-11-02",
           "content": "2.2.3까지 개념 전부/",
           "score": "30",
-          "comment": ""
+          "comment": "개념 암기된 것 거의 없음."
         }
       ]
     },
