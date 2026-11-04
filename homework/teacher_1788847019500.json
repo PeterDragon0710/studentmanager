@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-03T12:51:58.287Z",
+  "updatedAt": "2026-11-04T06:50:06.215Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -138,7 +138,7 @@
         {
           "date": "2026-11-02",
           "content": "2.2.1 2차학습, 2.2.2 1차학습까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -255,7 +255,7 @@
         {
           "date": "2026-11-02",
           "content": "6단원 대비 프린트, 교재 문제 마무리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -336,8 +336,8 @@
         {
           "date": "2026-11-02",
           "content": "2단원 그린챌린지, 2단원 복습 프린트",
-          "score": null,
-          "comment": ""
+          "score": "과제안함",
+          "comment": "학생이 월요일부터 몸 상태가 안좋았다고 함."
         }
       ]
     },
