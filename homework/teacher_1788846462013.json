@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-11-03T09:55:47.537Z",
+  "updatedAt": "2026-11-04T09:55:54.027Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -108,6 +108,12 @@
         {
           "date": "2026-11-02",
           "content": "<과제>\n1-1 내신대비교재 기출유형(기본도형)\n1-1 내신대비교재 학교시험(기본도형)",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-11-04",
+          "content": "<과제>\n1-2 내신대비교재 기출유형(기본도형) 발상노트\n1-2 내신대비교재 기출유형(위치관계)",
           "score": null,
           "comment": ""
         }
