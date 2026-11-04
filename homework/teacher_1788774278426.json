@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-04T08:47:38.829Z",
+  "updatedAt": "2026-11-04T08:50:49.515Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -654,7 +654,7 @@
         {
           "date": "2026-11-02",
           "content": "2.2.3까지 개념 전부/",
-          "score": "100",
+          "score": "60",
           "comment": ""
         }
       ]
