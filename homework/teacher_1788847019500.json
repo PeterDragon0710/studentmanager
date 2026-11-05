@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-05T10:02:24.327Z",
+  "updatedAt": "2026-11-05T10:06:38.120Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1965,7 +1965,7 @@
         {
           "date": "2026-11-03",
           "content": "응용도전까지",
-          "score": null,
+          "score": "60",
           "comment": ""
         }
       ]
@@ -2028,7 +2028,7 @@
         {
           "date": "2026-11-03",
           "content": "경우의 수 마무리",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
