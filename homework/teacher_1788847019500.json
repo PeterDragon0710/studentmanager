@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-04T09:49:10.512Z",
+  "updatedAt": "2026-11-05T05:19:15.076Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -735,8 +735,8 @@
         {
           "date": "2026-11-03",
           "content": "4.1.1 마무리, 4.1.2 필수예제까지",
-          "score": null,
-          "comment": ""
+          "score": "100",
+          "comment": "4.1.2 계산 확인."
         }
       ]
     },
@@ -834,7 +834,7 @@
         {
           "date": "2026-11-03",
           "content": "6단원 마무리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -933,7 +933,7 @@
         {
           "date": "2026-11-03",
           "content": "1.1.1 마무리, 1.1.2 개념학습, 개념유형",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -948,7 +948,7 @@
         {
           "date": "2026-11-03",
           "content": "4.1.1 2차학습까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1047,7 +1047,7 @@
         {
           "date": "2026-11-03",
           "content": "1~6단원 그린챌린지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1146,7 +1146,7 @@
         {
           "date": "2026-11-03",
           "content": "1.1.1 마무리, 1.1.2 필수예제까지",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
