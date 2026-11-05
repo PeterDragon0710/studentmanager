@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-05T09:27:12.356Z",
+  "updatedAt": "2026-11-05T09:47:13.114Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -815,6 +815,12 @@
           "content": "1-2 전범위 개념문제",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-05",
+          "content": "1-2 연습문제 과제",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -943,6 +949,12 @@
           "date": "2026-11-03",
           "content": "1-2 전범위 개념문제",
           "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-05",
+          "content": "1-2 연습문제 과제",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1201,6 +1213,12 @@
           "date": "2026-11-03",
           "content": "1-2 전범위 개념문제",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-05",
+          "content": "1-2 연습문제 과제",
+          "score": null,
           "comment": ""
         }
       ]
