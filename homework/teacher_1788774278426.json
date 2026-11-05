@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-05T09:47:13.114Z",
+  "updatedAt": "2026-11-05T09:51:17.414Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -953,7 +953,7 @@
         },
         {
           "date": "2026-11-05",
-          "content": "1-2 연습문제 과제",
+          "content": "1-2 연습문제 과제/단원 평가 이어서/",
           "score": null,
           "comment": ""
         }
@@ -1206,7 +1206,7 @@
         {
           "date": "2026-10-29",
           "content": "4.2.3까지 2차까지/4단원평가/",
-          "score": null,
+          "score": "100",
           "comment": ""
         },
         {
@@ -1217,7 +1217,7 @@
         },
         {
           "date": "2026-11-05",
-          "content": "1-2 연습문제 과제",
+          "content": "1-2 연습문제 과제/4단원 평가 이어서/",
           "score": null,
           "comment": ""
         }
