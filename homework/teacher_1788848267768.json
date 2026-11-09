@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-11-09T08:03:04.380Z",
+  "updatedAt": "2026-11-09T09:20:12.573Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1356,8 +1356,8 @@
         {
           "date": "2026-11-06",
           "content": "5단원 평가대비 프린트",
-          "score": "100",
-          "comment": ""
+          "score": "80",
+          "comment": "오답유사 안함."
         }
       ]
     },
