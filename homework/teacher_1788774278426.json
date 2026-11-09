@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-06T10:41:19.151Z",
+  "updatedAt": "2026-11-09T09:54:59.052Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -150,6 +150,12 @@
         {
           "date": "2026-11-06",
           "content": "1-2 내신범위 연습프린트",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "2.1까지 1회차만",
           "score": null,
           "comment": ""
         }
@@ -303,6 +309,12 @@
         {
           "date": "2026-11-06",
           "content": "1-2 내신범위 연습프린트",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "2.1까지 1회차만",
           "score": null,
           "comment": ""
         }
@@ -464,6 +476,12 @@
           "content": "1-2 내신범위 연습프린트",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "2.1까지 1회차만",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -611,6 +629,12 @@
           "content": "1-2 내신범위 연습프린트",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "2.1까지 1회차만",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -714,6 +738,12 @@
         {
           "date": "2026-11-06",
           "content": "2.2.3까지 2차까지/",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "2.1까지 1회차만",
           "score": null,
           "comment": ""
         }
