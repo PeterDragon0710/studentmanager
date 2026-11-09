@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-09T05:05:23.901Z",
+  "updatedAt": "2026-11-09T06:55:52.610Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -279,7 +279,7 @@
         {
           "date": "2026-11-06",
           "content": "1.1.1, 1.1.2 마무리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1353,7 +1353,7 @@
         {
           "date": "2026-11-07",
           "content": "1~4 단원 미흡한 부분 개념공부",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1500,7 +1500,7 @@
         {
           "date": "2026-11-07",
           "content": "1~4 단원 미흡한 부분 개념공부",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1782,7 +1782,7 @@
         {
           "date": "2026-11-07",
           "content": "1~4 단원 미흡한 부분 개념공부",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
