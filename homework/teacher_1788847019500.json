@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-09T08:25:14.965Z",
+  "updatedAt": "2026-11-09T10:00:46.161Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -2034,7 +2034,7 @@
         {
           "date": "2026-11-06",
           "content": "2-2 2,3단원 개념 복습",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
