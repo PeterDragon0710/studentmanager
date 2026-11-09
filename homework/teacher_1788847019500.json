@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-07T05:06:35.917Z",
+  "updatedAt": "2026-11-09T05:05:23.901Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -150,7 +150,7 @@
         {
           "date": "2026-11-06",
           "content": "3.1.1, 3.1.2 필수~2차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -372,7 +372,7 @@
         {
           "date": "2026-11-06",
           "content": "개념교재: 3.1.1, 3.1.2 개념학습, 개념유형\nL2 : 3.1.1 1차학습, 3.1.2 필수예제\n2단원평가 오답고치기",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -519,7 +519,7 @@
         {
           "date": "2026-11-06",
           "content": "1~4단원 개념 복습",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -672,7 +672,7 @@
         {
           "date": "2026-11-06",
           "content": "1~4단원 개념 복습",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
