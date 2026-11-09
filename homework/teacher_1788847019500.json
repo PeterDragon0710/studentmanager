@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-09T07:54:28.567Z",
+  "updatedAt": "2026-11-09T08:25:14.965Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -539,6 +539,12 @@
           "content": "1~4단원 개념 복습",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "시험대비교재 1,2 단원 1회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -691,6 +697,12 @@
           "date": "2026-11-06",
           "content": "1~4단원 개념 복습",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "시험대비교재 1,2 단원 1회차",
+          "score": null,
           "comment": ""
         }
       ]
