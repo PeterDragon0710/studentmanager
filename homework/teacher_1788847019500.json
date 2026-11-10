@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-10T07:52:59.183Z",
+  "updatedAt": "2026-11-10T08:19:05.050Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1713,7 +1713,7 @@
         {
           "date": "2026-11-07",
           "content": "3단원 마무리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1977,7 +1977,7 @@
         {
           "date": "2026-11-07",
           "content": "입체도형의 겉넓이와 부피 개념문제 1개씩+ 가능하면 문제 더 풀어오기",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
