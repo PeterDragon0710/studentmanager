@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-11-10T09:53:19.470Z",
+  "updatedAt": "2026-11-10T10:05:12.274Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -3783,7 +3783,7 @@
         {
           "date": "2026-11-07",
           "content": "2.1.1~2.1.2 (2차학습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -3876,7 +3876,7 @@
         {
           "date": "2026-11-05",
           "content": "과제프린트(인수분해 복습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -3969,7 +3969,7 @@
         {
           "date": "2026-11-05",
           "content": "과제프린트(인수분해 복습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -4062,7 +4062,7 @@
         {
           "date": "2026-11-05",
           "content": "과제프린트(인수분해 복습)",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
