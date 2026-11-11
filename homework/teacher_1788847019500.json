@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-10T12:55:48.656Z",
+  "updatedAt": "2026-11-11T06:32:39.809Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -291,7 +291,7 @@
         {
           "date": "2026-11-09",
           "content": "1단원 마무리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -390,7 +390,7 @@
         {
           "date": "2026-11-09",
           "content": "개념교재: 3.2.1, 3.2.2 개념학습, 개념유형\nL2: 3.2.1, 3.2.2 필수예제만",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
@@ -2232,7 +2232,7 @@
       ]
     },
     {
-      "linkId": "stu_nc74jsxrmwap13u8",
+      "linkId": "stu_y3s40edkmwbqs875",
       "name": "박서진",
       "day": "화목",
       "part": "3부",
