@@ -1,13 +1,13 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-11T06:32:39.809Z",
+  "updatedAt": "2026-11-11T07:26:37.206Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
       "name": "유호건",
       "day": "월수금",
       "part": "1부",
-      "school": "다원초",
+      "school": "늘봄초",
       "records": [
         {
           "date": "2026-09-09",
@@ -166,7 +166,7 @@
       "name": "윤예현",
       "day": "월수금",
       "part": "1부",
-      "school": "늘봄초",
+      "school": "다원초",
       "records": [
         {
           "date": "2026-09-09",
@@ -391,7 +391,7 @@
           "date": "2026-11-09",
           "content": "개념교재: 3.2.1, 3.2.2 개념학습, 개념유형\nL2: 3.2.1, 3.2.2 필수예제만",
           "score": "80",
-          "comment": ""
+          "comment": "3.2.2 미흡"
         }
       ]
     },
@@ -702,7 +702,7 @@
         {
           "date": "2026-11-09",
           "content": "시험대비교재 1,2 단원 1회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -2232,7 +2232,7 @@
       ]
     },
     {
-      "linkId": "stu_y3s40edkmwbqs875",
+      "linkId": "stu_t85t9pi3mwbspm6u",
       "name": "박서진",
       "day": "화목",
       "part": "3부",
