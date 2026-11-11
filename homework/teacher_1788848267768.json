@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-11-11T08:05:44.205Z",
+  "updatedAt": "2026-11-11T08:15:06.361Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -2193,8 +2193,8 @@
         {
           "date": "2026-11-09",
           "content": "3.2.4 (2차학습) / 3단원 평가대비 프린트",
-          "score": "100",
-          "comment": ""
+          "score": "90",
+          "comment": "프린트 미지참"
         }
       ]
     },
