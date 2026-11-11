@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-11T07:53:17.995Z",
+  "updatedAt": "2026-11-11T08:48:15.093Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -563,6 +563,12 @@
           "content": "시험대비교재 1,2 단원 1회차",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-11",
+          "content": "시험대비교재 3,4단원 1회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -721,6 +727,12 @@
           "date": "2026-11-09",
           "content": "시험대비교재 1,2 단원 1회차",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-11",
+          "content": "시험대비교재 3,4단원 1회차",
+          "score": null,
           "comment": ""
         }
       ]
@@ -2250,7 +2262,7 @@
       ]
     },
     {
-      "linkId": "stu_m48v7z3hmwbtnxd7",
+      "linkId": "stu_ufeyhykfmwbvmlf9",
       "name": "박서진",
       "day": "화목",
       "part": "3부",
