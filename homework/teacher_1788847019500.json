@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-11T07:50:18.325Z",
+  "updatedAt": "2026-11-11T07:53:17.995Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -302,7 +302,7 @@
         },
         {
           "date": "2026-11-11",
-          "content": "2.1.1 2차학습, 1단원 프린트",
+          "content": "2.1.1 1차학습, 1단원 프린트",
           "score": null,
           "comment": ""
         }
@@ -2250,7 +2250,7 @@
       ]
     },
     {
-      "linkId": "stu_fqhpr5hqmwbtk2qd",
+      "linkId": "stu_m48v7z3hmwbtnxd7",
       "name": "박서진",
       "day": "화목",
       "part": "3부",
