@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-11T08:48:15.093Z",
+  "updatedAt": "2026-11-12T05:58:12.587Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -837,7 +837,7 @@
         {
           "date": "2026-11-10",
           "content": "4단원 평가대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -948,7 +948,7 @@
         {
           "date": "2026-11-10",
           "content": "1단원 마무리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1059,7 +1059,7 @@
         {
           "date": "2026-11-10",
           "content": "2.1.3 필수예제, 2.2.1 개념학습, 개념유형, 6-1 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1086,7 +1086,7 @@
         {
           "date": "2026-11-10",
           "content": "4단원평가 대비 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1197,7 +1197,7 @@
         {
           "date": "2026-11-10",
           "content": "1단원 심화 연습, 6-1 프린트",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -1308,8 +1308,8 @@
         {
           "date": "2026-11-10",
           "content": "1단원 마무리, 1단원평가대비 프린트",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "오답유사 안되어있음"
         }
       ]
     },
@@ -1455,7 +1455,7 @@
         {
           "date": "2026-11-10",
           "content": "시험대비교재 1,2 단원 1회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1605,6 +1605,21 @@
           "score": "100",
           "comment": ""
         },
+        {
+          "date": "2026-11-10",
+          "content": "시험대비교재 1,2 단원 1회차",
+          "score": "100",
+          "comment": "1.3, 2.1 오답유사 미흡"
+        }
+      ]
+    },
+    {
+      "linkId": "stu_383bd8p0mwd4zrsb",
+      "name": "강동균",
+      "day": "화목토",
+      "part": "2부",
+      "school": "한백중",
+      "records": [
         {
           "date": "2026-11-10",
           "content": "시험대비교재 1,2 단원 1회차",
@@ -2262,7 +2277,7 @@
       ]
     },
     {
-      "linkId": "stu_ufeyhykfmwbvmlf9",
+      "linkId": "stu_ctmvm9jzmwd4zrsb",
       "name": "박서진",
       "day": "화목",
       "part": "3부",
