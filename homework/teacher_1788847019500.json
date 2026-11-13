@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-13T09:42:43.238Z",
+  "updatedAt": "2026-11-13T11:12:54.182Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1692,7 +1692,7 @@
       ]
     },
     {
-      "linkId": "stu_cnaowvyfmwesgch2",
+      "linkId": "stu_oexqglkamwevobl2",
       "name": "강동균",
       "day": "화목토",
       "part": "2부",
@@ -2247,7 +2247,7 @@
         {
           "date": "2026-11-09",
           "content": "시험대비교재 2,3단원 1회차",
-          "score": null,
+          "score": "80",
           "comment": ""
         }
       ]
