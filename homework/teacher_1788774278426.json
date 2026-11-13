@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-13T08:22:45.642Z",
+  "updatedAt": "2026-11-13T10:03:13.220Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -1500,7 +1500,7 @@
         {
           "date": "2026-11-02",
           "content": "교재끝내기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1545,7 +1545,7 @@
         {
           "date": "2026-11-02",
           "content": "경우의수 확률 연습문제 45제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1602,7 +1602,7 @@
         {
           "date": "2026-11-02",
           "content": "경우의수 확률 연습문제 45제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1653,7 +1653,7 @@
         {
           "date": "2026-11-02",
           "content": "경우의수 확률 연습문제 45제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1710,7 +1710,7 @@
         {
           "date": "2026-11-02",
           "content": "조립제법 끝내기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
