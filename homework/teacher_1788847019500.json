@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-13T07:54:36.890Z",
+  "updatedAt": "2026-11-13T09:42:43.238Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -587,6 +587,12 @@
           "content": "시험대비교재 3,4단원 1회차",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-13",
+          "content": "시험대비교재 1,2단원 2회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -751,6 +757,12 @@
           "date": "2026-11-11",
           "content": "시험대비교재 3,4단원 1회차",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-13",
+          "content": "시험대비교재 1,2단원 2회차",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1680,7 +1692,7 @@
       ]
     },
     {
-      "linkId": "stu_tvvsslxumweolbkp",
+      "linkId": "stu_cnaowvyfmwesgch2",
       "name": "강동균",
       "day": "화목토",
       "part": "2부",
