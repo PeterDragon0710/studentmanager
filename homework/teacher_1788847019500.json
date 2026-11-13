@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-12T13:22:16.876Z",
+  "updatedAt": "2026-11-13T05:48:08.087Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -162,7 +162,7 @@
         {
           "date": "2026-11-11",
           "content": "3단원 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -303,7 +303,7 @@
         {
           "date": "2026-11-11",
           "content": "2.1.1 1차학습, 1단원 프린트",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -408,8 +408,8 @@
         {
           "date": "2026-11-11",
           "content": "3단원 마무리",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "3.2.2 오답유사 미흡"
         }
       ]
     },
@@ -1662,7 +1662,7 @@
       ]
     },
     {
-      "linkId": "stu_k063f856mwdkuung",
+      "linkId": "stu_vjb6my4ymwek2o0n",
       "name": "강동균",
       "day": "화목토",
       "part": "2부",
