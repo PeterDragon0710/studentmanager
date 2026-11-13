@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-13T07:53:35.380Z",
+  "updatedAt": "2026-11-13T07:54:36.890Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -167,7 +167,7 @@
         },
         {
           "date": "2026-11-13",
-          "content": "2.1.2 2차학습까지",
+          "content": "4.1.1 2차학습까지",
           "score": null,
           "comment": ""
         }
@@ -1680,7 +1680,7 @@
       ]
     },
     {
-      "linkId": "stu_wv2zqwvymweok044",
+      "linkId": "stu_tvvsslxumweolbkp",
       "name": "강동균",
       "day": "화목토",
       "part": "2부",
