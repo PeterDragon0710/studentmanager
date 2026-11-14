@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-14T00:04:21.062Z",
+  "updatedAt": "2026-11-14T00:05:56.999Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -915,7 +915,7 @@
         {
           "date": "2026-11-12",
           "content": "2.2까지 1회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1185,7 +1185,7 @@
         {
           "date": "2026-11-12",
           "content": "2.2까지 1회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1332,7 +1332,7 @@
         {
           "date": "2026-11-12",
           "content": "2.2까지 1회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1473,7 +1473,7 @@
         {
           "date": "2026-11-12",
           "content": "2.2까지 1회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
