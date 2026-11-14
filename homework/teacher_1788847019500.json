@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-14T05:21:38.473Z",
+  "updatedAt": "2026-11-14T05:37:19.773Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1873,6 +1873,12 @@
           "date": "2026-11-12",
           "content": "3단원 프린트",
           "score": "과제안함",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-14",
+          "content": "4단원 유형연습 마무리",
+          "score": null,
           "comment": ""
         }
       ]
