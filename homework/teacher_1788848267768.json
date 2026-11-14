@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-11-14T03:20:44.577Z",
+  "updatedAt": "2026-11-14T03:22:08.771Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -4764,8 +4764,8 @@
         {
           "date": "2026-11-11",
           "content": "시험대비교재 1회차, 2회차 (2.1 / 2.2 / 2.3)",
-          "score": "70",
-          "comment": ""
+          "score": "60",
+          "comment": "일부만 완료."
         }
       ]
     },
