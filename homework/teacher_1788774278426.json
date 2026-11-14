@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-14T01:51:17.295Z",
+  "updatedAt": "2026-11-14T01:54:06.003Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -917,6 +917,12 @@
           "content": "2.2까지 1회차",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-14",
+          "content": "1회차 마무리하기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1058,6 +1064,12 @@
           "content": "2.2까지 1회차",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-14",
+          "content": "1회차 마무리하기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1186,6 +1198,12 @@
           "date": "2026-11-12",
           "content": "2.2까지 1회차",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-14",
+          "content": "1회차 마무리하기/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1334,6 +1352,12 @@
           "content": "2.2까지 1회차",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-14",
+          "content": "1회차 마무리하기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1474,6 +1498,12 @@
           "date": "2026-11-12",
           "content": "2.2까지 1회차",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-14",
+          "content": "1회차 마무리하기/",
+          "score": null,
           "comment": ""
         }
       ]
