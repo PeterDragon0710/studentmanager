@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-13T10:03:13.220Z",
+  "updatedAt": "2026-11-14T00:02:24.940Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -909,7 +909,7 @@
         {
           "date": "2026-11-05",
           "content": "1-2 연습문제 과제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1044,7 +1044,7 @@
         {
           "date": "2026-11-05",
           "content": "1-2 연습문제 과제/단원 평가 이어서/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1167,7 +1167,7 @@
         {
           "date": "2026-11-03",
           "content": "1-2 전범위 개념문제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1308,7 +1308,7 @@
         {
           "date": "2026-11-05",
           "content": "1-2 연습문제 과제/4단원 평가 이어서/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1443,7 +1443,7 @@
         {
           "date": "2026-11-03",
           "content": "1-2 전범위 개념문제",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1502,6 +1502,12 @@
           "content": "교재끝내기/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "내신대비교재 1회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1546,6 +1552,12 @@
           "date": "2026-11-02",
           "content": "경우의수 확률 연습문제 45제",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "내신대비교재 1회차",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1604,6 +1616,12 @@
           "content": "경우의수 확률 연습문제 45제",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "내신대비교재 1회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1654,6 +1672,12 @@
           "date": "2026-11-02",
           "content": "경우의수 확률 연습문제 45제",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-09",
+          "content": "내신대비교재 1회차",
+          "score": null,
           "comment": ""
         }
       ]
