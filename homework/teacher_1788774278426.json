@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-14T00:02:24.940Z",
+  "updatedAt": "2026-11-14T00:04:21.062Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -911,6 +911,12 @@
           "content": "1-2 연습문제 과제",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-12",
+          "content": "2.2까지 1회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1046,6 +1052,12 @@
           "content": "1-2 연습문제 과제/단원 평가 이어서/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-12",
+          "content": "2.2까지 1회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1168,6 +1180,12 @@
           "date": "2026-11-03",
           "content": "1-2 전범위 개념문제",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-12",
+          "content": "2.2까지 1회차",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1310,6 +1328,12 @@
           "content": "1-2 연습문제 과제/4단원 평가 이어서/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-12",
+          "content": "2.2까지 1회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1437,13 +1461,19 @@
         {
           "date": "2026-10-31",
           "content": "3단원 재시/재시대비 프린트/",
-          "score": null,
+          "score": "100",
           "comment": ""
         },
         {
           "date": "2026-11-03",
           "content": "1-2 전범위 개념문제",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-12",
+          "content": "2.2까지 1회차",
+          "score": null,
           "comment": ""
         }
       ]
