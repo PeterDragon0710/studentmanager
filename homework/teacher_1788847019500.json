@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-13T11:12:54.182Z",
+  "updatedAt": "2026-11-14T05:21:38.473Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1527,6 +1527,12 @@
         {
           "date": "2026-11-12",
           "content": "시험대비교재 3,4 단원 1회차",
+          "score": "80",
+          "comment": "채점 안함"
+        },
+        {
+          "date": "2026-11-14",
+          "content": "시험대비교재 1,2단원 2회차",
           "score": null,
           "comment": ""
         }
@@ -1686,13 +1692,19 @@
         {
           "date": "2026-11-12",
           "content": "시험대비교재 3,4 단원 1회차",
+          "score": "90",
+          "comment": "오답유사 미흡"
+        },
+        {
+          "date": "2026-11-14",
+          "content": "시험대비교재 1,2단원 2회차",
           "score": null,
           "comment": ""
         }
       ]
     },
     {
-      "linkId": "stu_oexqglkamwevobl2",
+      "linkId": "stu_zaz8z0uqmwfykg4o",
       "name": "강동균",
       "day": "화목토",
       "part": "2부",
@@ -1860,7 +1872,7 @@
         {
           "date": "2026-11-12",
           "content": "3단원 프린트",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         }
       ]
@@ -2007,6 +2019,12 @@
         {
           "date": "2026-11-12",
           "content": "시험대비교재 3,4 단원 1회차",
+          "score": "80",
+          "comment": "채점 안함"
+        },
+        {
+          "date": "2026-11-14",
+          "content": "시험대비교재 1,2단원 2회차, 개념 복습",
           "score": null,
           "comment": ""
         }
@@ -2248,7 +2266,7 @@
           "date": "2026-11-09",
           "content": "시험대비교재 2,3단원 1회차",
           "score": "80",
-          "comment": ""
+          "comment": "풀어오긴 했으나 모르는 부분이 많음"
         }
       ]
     },
