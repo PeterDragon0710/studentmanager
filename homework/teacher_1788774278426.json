@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-14T00:05:56.999Z",
+  "updatedAt": "2026-11-14T01:51:17.295Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -1056,7 +1056,7 @@
         {
           "date": "2026-11-12",
           "content": "2.2까지 1회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
