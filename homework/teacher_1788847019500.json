@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-16T09:51:19.546Z",
+  "updatedAt": "2026-11-16T12:54:08.925Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1728,21 +1728,6 @@
       ]
     },
     {
-      "linkId": "stu_zaz8z0uqmwfykg4o",
-      "name": "강동균",
-      "day": "화목토",
-      "part": "2부",
-      "school": "한백중",
-      "records": [
-        {
-          "date": "2026-11-10",
-          "content": "시험대비교재 1,2 단원 1회차",
-          "score": null,
-          "comment": ""
-        }
-      ]
-    },
-    {
       "linkId": "stu_3kvu0d1kmtxn55xz",
       "name": "이권후",
       "day": "화목토",
@@ -2297,6 +2282,12 @@
           "content": "시험대비교재 2,3단원 1회차",
           "score": "80",
           "comment": "풀어오긴 했으나 모르는 부분이 많음"
+        },
+        {
+          "date": "2026-11-13",
+          "content": "시험대비교재 2회차",
+          "score": "70",
+          "comment": ""
         }
       ]
     },
