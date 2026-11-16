@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-16T06:45:21.090Z",
+  "updatedAt": "2026-11-16T07:40:18.446Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -317,6 +317,12 @@
           "content": "2.1.2 2차학습까지",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-16",
+          "content": "2단원 마무리",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -427,6 +433,12 @@
           "date": "2026-11-13",
           "content": "4.1.2 2차학습까지",
           "score": "80",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-16",
+          "content": "4.2.1 마무리",
+          "score": null,
           "comment": ""
         }
       ]
