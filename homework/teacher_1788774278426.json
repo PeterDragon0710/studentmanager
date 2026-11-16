@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-16T08:07:17.472Z",
+  "updatedAt": "2026-11-16T08:08:24.100Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -804,8 +804,8 @@
         {
           "date": "2026-11-13",
           "content": "2회차 5개",
-          "score": "100",
-          "comment": ""
+          "score": "50",
+          "comment": "일부 채점 안됨."
         }
       ]
     },
