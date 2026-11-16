@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-16T07:46:31.047Z",
+  "updatedAt": "2026-11-16T08:07:17.472Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -168,7 +168,7 @@
         {
           "date": "2026-11-13",
           "content": "2회차 5개",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -339,7 +339,7 @@
         {
           "date": "2026-11-13",
           "content": "2회차 5개",
-          "score": null,
+          "score": "60",
           "comment": ""
         }
       ]
@@ -516,7 +516,7 @@
         {
           "date": "2026-11-13",
           "content": "2회차 5개",
-          "score": null,
+          "score": "과제안함",
           "comment": ""
         }
       ]
@@ -681,7 +681,7 @@
         {
           "date": "2026-11-13",
           "content": "2회차 5개",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -804,7 +804,7 @@
         {
           "date": "2026-11-13",
           "content": "2회차 5개",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
