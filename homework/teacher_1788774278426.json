@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-17T08:01:21.646Z",
+  "updatedAt": "2026-11-17T09:52:58.161Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -983,6 +983,12 @@
           "content": "1회차 마무리하기/",
           "score": "90",
           "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "2회차 5개 풀어오기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1130,6 +1136,12 @@
           "content": "1회차 마무리하기/",
           "score": "70",
           "comment": "오답유사 안됨"
+        },
+        {
+          "date": "2026-11-17",
+          "content": "2회차 5개 풀어오기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1264,6 +1276,12 @@
           "date": "2026-11-14",
           "content": "1회차 마무리하기/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "2회차 5개 풀어오기/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1418,6 +1436,12 @@
           "content": "1회차 마무리하기/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "2회차 5개 풀어오기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1564,6 +1588,12 @@
           "date": "2026-11-14",
           "content": "1회차 마무리하기/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "2회차 5개 풀어오기/",
+          "score": null,
           "comment": ""
         }
       ]
