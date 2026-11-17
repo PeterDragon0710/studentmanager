@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-17T05:33:25.742Z",
+  "updatedAt": "2026-11-17T07:36:40.360Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1016,6 +1016,12 @@
           "content": "1단원 복습 프린트",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "3,4 단원대비 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1133,6 +1139,12 @@
           "content": "2.2.2 2차학습까지, 2단원평가 프린트",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "3,4 단원대비 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1165,6 +1177,12 @@
           "date": "2026-11-12",
           "content": "5.1.1 1차학습까지, 4단원 프린트",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "3,4 단원대비 프린트",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1283,6 +1301,12 @@
           "content": "2단원 마무리, 2단원평가 대비 프린트",
           "score": "90",
           "comment": "오답유사 확인"
+        },
+        {
+          "date": "2026-11-17",
+          "content": "3,4 단원대비 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1399,6 +1423,12 @@
           "date": "2026-11-12",
           "content": "2.1.1 필수예제 ,1단원 복습 프린트",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "3,4 단원대비 프린트",
+          "score": null,
           "comment": ""
         }
       ]
