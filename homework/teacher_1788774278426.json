@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-16T08:09:29.921Z",
+  "updatedAt": "2026-11-17T08:01:21.646Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -169,6 +169,12 @@
           "date": "2026-11-13",
           "content": "2회차 5개",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-16",
+          "content": "2회차 전부",
+          "score": null,
           "comment": ""
         }
       ]
@@ -340,6 +346,12 @@
           "date": "2026-11-13",
           "content": "2회차 5개",
           "score": "60",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-16",
+          "content": "2회차 전부",
+          "score": null,
           "comment": ""
         }
       ]
@@ -518,6 +530,12 @@
           "content": "2회차 5개",
           "score": "과제안함",
           "comment": ""
+        },
+        {
+          "date": "2026-11-16",
+          "content": "2회차 전부",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -683,6 +701,12 @@
           "content": "2회차 5개",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-16",
+          "content": "2회차 전부",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -806,6 +830,12 @@
           "content": "2회차 5개",
           "score": "50",
           "comment": "일부 채점 안됨."
+        },
+        {
+          "date": "2026-11-16",
+          "content": "2회차 전부",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -951,7 +981,7 @@
         {
           "date": "2026-11-14",
           "content": "1회차 마무리하기/",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -1098,8 +1128,8 @@
         {
           "date": "2026-11-14",
           "content": "1회차 마무리하기/",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "오답유사 안됨"
         }
       ]
     },
@@ -1233,7 +1263,7 @@
         {
           "date": "2026-11-14",
           "content": "1회차 마무리하기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1386,7 +1416,7 @@
         {
           "date": "2026-11-14",
           "content": "1회차 마무리하기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -1533,7 +1563,7 @@
         {
           "date": "2026-11-14",
           "content": "1회차 마무리하기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
