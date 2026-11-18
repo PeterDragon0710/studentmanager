@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-17T09:56:38.455Z",
+  "updatedAt": "2026-11-18T08:14:58.288Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -174,7 +174,7 @@
         {
           "date": "2026-11-16",
           "content": "2회차 전부",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -351,7 +351,7 @@
         {
           "date": "2026-11-16",
           "content": "2회차 전부",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -534,8 +534,8 @@
         {
           "date": "2026-11-16",
           "content": "2회차 전부",
-          "score": null,
-          "comment": ""
+          "score": "60",
+          "comment": "뒷부분 안풀림."
         }
       ]
     },
@@ -705,7 +705,7 @@
         {
           "date": "2026-11-16",
           "content": "2회차 전부",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -834,8 +834,8 @@
         {
           "date": "2026-11-16",
           "content": "2회차 전부",
-          "score": null,
-          "comment": ""
+          "score": "50",
+          "comment": "뒷부분 안풀림."
         }
       ]
     },
