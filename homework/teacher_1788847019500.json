@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-18T06:25:21.979Z",
+  "updatedAt": "2026-11-18T06:33:07.520Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -609,7 +609,7 @@
         {
           "date": "2026-11-16",
           "content": "시험대비교재 3,4댠원 2회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -786,7 +786,7 @@
         {
           "date": "2026-11-16",
           "content": "시험대비교재 3,4댠원 2회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
