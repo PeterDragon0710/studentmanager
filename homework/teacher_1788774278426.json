@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-18T08:14:58.288Z",
+  "updatedAt": "2026-11-18T09:43:10.052Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -175,6 +175,12 @@
           "date": "2026-11-16",
           "content": "2회차 전부",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-18",
+          "content": "3회차 5개 풀어오기/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -352,6 +358,12 @@
           "date": "2026-11-16",
           "content": "2회차 전부",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-18",
+          "content": "3회차 5개 풀어오기/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -536,6 +548,12 @@
           "content": "2회차 전부",
           "score": "60",
           "comment": "뒷부분 안풀림."
+        },
+        {
+          "date": "2026-11-18",
+          "content": "3회차 5개 풀어오기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -707,6 +725,12 @@
           "content": "2회차 전부",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-18",
+          "content": "3회차 5개 풀어오기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -836,6 +860,12 @@
           "content": "2회차 전부",
           "score": "50",
           "comment": "뒷부분 안풀림."
+        },
+        {
+          "date": "2026-11-18",
+          "content": "3회차 5개 풀어오기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
