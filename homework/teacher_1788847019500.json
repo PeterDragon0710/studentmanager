@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-17T13:02:03.247Z",
+  "updatedAt": "2026-11-18T06:25:21.979Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -321,7 +321,7 @@
         {
           "date": "2026-11-16",
           "content": "2단원 마무리",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -438,8 +438,8 @@
         {
           "date": "2026-11-16",
           "content": "4.2.1 마무리",
-          "score": null,
-          "comment": ""
+          "score": "80",
+          "comment": "성취도 확인"
         }
       ]
     },
