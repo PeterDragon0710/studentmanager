@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-18T09:54:45.165Z",
+  "updatedAt": "2026-11-19T05:01:11.217Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1212,8 +1212,8 @@
         {
           "date": "2026-11-17",
           "content": "3,4 단원대비 프린트",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "오답유사 미흡"
         }
       ]
     },
@@ -1961,6 +1961,12 @@
           "content": "4단원 유형연습 마무리",
           "score": "90",
           "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "1-2 30문제 프린트 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2260,6 +2266,12 @@
           "date": "2026-11-12",
           "content": "3단원 프린트",
           "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-17",
+          "content": "1-2 30문제 프린트 풀어오기",
+          "score": null,
           "comment": ""
         }
       ]
