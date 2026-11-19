@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-19T08:09:48.546Z",
+  "updatedAt": "2026-11-19T10:00:25.371Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1661,6 +1661,12 @@
           "content": "시험대비교재 3,4단원 2회차",
           "score": "90",
           "comment": "채점안됨"
+        },
+        {
+          "date": "2026-11-19",
+          "content": "시험대비교재 1,2단원 3회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1832,6 +1838,12 @@
           "content": "시험대비교재 3,4단원 2회차",
           "score": "90",
           "comment": "오답유사 미흡"
+        },
+        {
+          "date": "2026-11-19",
+          "content": "시험대비교재 1,2단원 3회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2003,6 +2015,12 @@
           "content": "1-2 30문제 프린트 풀어오기",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-19",
+          "content": "1-2 개념공부",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2162,6 +2180,12 @@
           "content": "시험대비교재 3,4단원 2회차",
           "score": "90",
           "comment": ""
+        },
+        {
+          "date": "2026-11-19",
+          "content": "시험대비교재 1,2단원 3회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2308,6 +2332,12 @@
           "date": "2026-11-17",
           "content": "1-2 30문제 프린트 풀어오기",
           "score": "90",
+          "comment": "채점안됨"
+        },
+        {
+          "date": "2026-11-19",
+          "content": "1-2 개념공부",
+          "score": null,
           "comment": ""
         }
       ]
