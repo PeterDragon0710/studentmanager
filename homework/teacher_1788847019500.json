@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-19T06:27:40.663Z",
+  "updatedAt": "2026-11-19T08:09:48.546Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1659,8 +1659,8 @@
         {
           "date": "2026-11-17",
           "content": "시험대비교재 3,4단원 2회차",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "채점안됨"
         }
       ]
     },
@@ -1830,8 +1830,8 @@
         {
           "date": "2026-11-17",
           "content": "시험대비교재 3,4단원 2회차",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "오답유사 미흡"
         }
       ]
     },
@@ -2001,7 +2001,7 @@
         {
           "date": "2026-11-17",
           "content": "1-2 30문제 프린트 풀어오기",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -2160,7 +2160,7 @@
         {
           "date": "2026-11-17",
           "content": "시험대비교재 3,4단원 2회차",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -2307,7 +2307,7 @@
         {
           "date": "2026-11-17",
           "content": "1-2 30문제 프린트 풀어오기",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
