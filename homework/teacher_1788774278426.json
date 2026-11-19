@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-18T09:45:09.290Z",
+  "updatedAt": "2026-11-19T09:45:07.062Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -1311,6 +1311,12 @@
         {
           "date": "2026-11-17",
           "content": "2회차 5개 풀어오기/기출베스트 나머지 풀어오기",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-19",
+          "content": "2회차 전부 풀어오기/",
           "score": null,
           "comment": ""
         }
@@ -1623,6 +1629,12 @@
         {
           "date": "2026-11-17",
           "content": "2회차 5개 풀어오기/기출베스트 나머지 풀어오기",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-19",
+          "content": "2회차 전부 풀어오기/",
           "score": null,
           "comment": ""
         }
