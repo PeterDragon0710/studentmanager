@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-19T10:04:49.150Z",
+  "updatedAt": "2026-11-19T12:52:53.413Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -2594,6 +2594,12 @@
           "content": "시험대비교재 3회차",
           "score": "80",
           "comment": "채점안되어있음"
+        },
+        {
+          "date": "2026-11-19",
+          "content": "시험대비교재 4회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
