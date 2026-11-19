@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-19T05:01:11.217Z",
+  "updatedAt": "2026-11-19T06:27:40.663Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -929,6 +929,12 @@
           "content": "5.1.1 2차학습, 5.1.2 개념유형, 필수예제",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-19",
+          "content": "TOMA 1차대비",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1050,6 +1056,12 @@
         {
           "date": "2026-11-17",
           "content": "3,4 단원대비 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-19",
+          "content": "TOMA 1차대비",
           "score": null,
           "comment": ""
         }
@@ -1173,6 +1185,12 @@
         {
           "date": "2026-11-17",
           "content": "3,4 단원대비 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-19",
+          "content": "TOMA 1차대비",
           "score": null,
           "comment": ""
         }
@@ -1212,8 +1230,14 @@
         {
           "date": "2026-11-17",
           "content": "3,4 단원대비 프린트",
-          "score": "90",
-          "comment": "오답유사 미흡"
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-19",
+          "content": "TOMA 1차대비",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1335,6 +1359,12 @@
         {
           "date": "2026-11-17",
           "content": "3,4 단원대비 프린트",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-19",
+          "content": "TOMA 1차대비",
           "score": null,
           "comment": ""
         }
@@ -1458,6 +1488,12 @@
         {
           "date": "2026-11-17",
           "content": "3,4 단원대비 프린트",
+          "score": "90",
+          "comment": "오답유사 미흡"
+        },
+        {
+          "date": "2026-11-19",
+          "content": "TOMA 1차대비",
           "score": null,
           "comment": ""
         }
