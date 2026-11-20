@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-20T07:57:08.341Z",
+  "updatedAt": "2026-11-20T08:07:09.053Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -473,7 +473,7 @@
         },
         {
           "date": "2026-11-20",
-          "content": "4.2.2 마무리",
+          "content": "4.2.2 마무리, 4.2.1 다시풀기, 오답유사",
           "score": null,
           "comment": ""
         }
