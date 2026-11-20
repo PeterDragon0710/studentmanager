@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-20T06:30:58.730Z",
+  "updatedAt": "2026-11-20T07:57:08.341Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -176,6 +176,12 @@
           "content": "4.2.1 마무리",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-20",
+          "content": "4단원평가 프린트, 오답유사",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -335,6 +341,12 @@
           "content": "2단원 복습 프린트, 2단원평가 오답고치기",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-20",
+          "content": "3.2.1 2차학습까지",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -457,6 +469,12 @@
           "date": "2026-11-18",
           "content": "4.2.1 마무리, 4.2.2 개념학습",
           "score": "90",
+          "comment": "채점 안되어있음"
+        },
+        {
+          "date": "2026-11-20",
+          "content": "4.2.2 마무리",
+          "score": null,
           "comment": ""
         }
       ]
