@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-20T08:03:09.404Z",
+  "updatedAt": "2026-11-20T09:49:51.463Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -181,6 +181,12 @@
           "date": "2026-11-18",
           "content": "3회차 5개 풀어오기/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-20",
+          "content": "3회차 끝내기/",
+          "score": null,
           "comment": ""
         }
       ]
@@ -365,6 +371,12 @@
           "content": "3회차 5개 풀어오기/",
           "score": "80",
           "comment": "1개 안됨"
+        },
+        {
+          "date": "2026-11-20",
+          "content": "3회차 끝내기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -554,6 +566,12 @@
           "content": "3회차 5개 풀어오기/",
           "score": "60",
           "comment": "과제 일부 못함"
+        },
+        {
+          "date": "2026-11-20",
+          "content": "3회차 끝내기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -731,6 +749,12 @@
           "content": "3회차 5개 풀어오기/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-20",
+          "content": "3회차 끝내기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -866,6 +890,12 @@
           "content": "3회차 5개 풀어오기/",
           "score": "10",
           "comment": "과제가 거의 안됨"
+        },
+        {
+          "date": "2026-11-20",
+          "content": "3회차 끝내기/",
+          "score": null,
+          "comment": ""
         }
       ]
     },
