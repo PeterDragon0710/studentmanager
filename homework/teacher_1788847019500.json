@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-20T05:41:28.713Z",
+  "updatedAt": "2026-11-20T06:30:58.730Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -456,7 +456,7 @@
         {
           "date": "2026-11-18",
           "content": "4.2.1 마무리, 4.2.2 개념학습",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
