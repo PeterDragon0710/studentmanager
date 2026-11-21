@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-20T12:13:48.445Z",
+  "updatedAt": "2026-11-21T00:25:23.205Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1695,8 +1695,8 @@
         {
           "date": "2026-11-19",
           "content": "시험대비교재 1,2단원 3회차",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "채점안되어있음"
         }
       ]
     },
@@ -1872,8 +1872,8 @@
         {
           "date": "2026-11-19",
           "content": "시험대비교재 1,2단원 3회차",
-          "score": null,
-          "comment": ""
+          "score": "90",
+          "comment": "채점안되어있음"
         }
       ]
     },
@@ -2049,7 +2049,7 @@
         {
           "date": "2026-11-19",
           "content": "1-2 개념공부",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -2214,8 +2214,8 @@
         {
           "date": "2026-11-19",
           "content": "시험대비교재 1,2단원 3회차",
-          "score": null,
-          "comment": ""
+          "score": "과제안함",
+          "comment": "정신 상태 불량"
         }
       ]
     },
@@ -2367,7 +2367,7 @@
         {
           "date": "2026-11-19",
           "content": "1-2 개념공부",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
