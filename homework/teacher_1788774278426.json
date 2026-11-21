@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-20T09:58:53.388Z",
+  "updatedAt": "2026-11-21T03:58:26.812Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -1200,6 +1200,12 @@
         {
           "date": "2026-11-17",
           "content": "2회차 5개 풀어오기/기출베스트 나머지 풀어오기",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-21",
+          "content": "3회차 5개 풀어오기/\n기출베스트, 쌍둥이 오늘진도까지 완료해오기/",
           "score": null,
           "comment": ""
         }
@@ -1347,6 +1353,12 @@
         {
           "date": "2026-11-19",
           "content": "2회차 전부 풀어오기/",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-21",
+          "content": "3회차 5개 풀어오기/",
           "score": null,
           "comment": ""
         }
@@ -1506,6 +1518,12 @@
         {
           "date": "2026-11-17",
           "content": "2회차 5개 풀어오기/기출베스트 나머지 풀어오기",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-21",
+          "content": "3회차 5개 풀어오기/\n기출베스트, 쌍둥이 오늘진도까지 완료해오기/",
           "score": null,
           "comment": ""
         }
@@ -1665,6 +1683,12 @@
         {
           "date": "2026-11-19",
           "content": "2회차 전부 풀어오기/",
+          "score": null,
+          "comment": ""
+        },
+        {
+          "date": "2026-11-21",
+          "content": "3회차 5개 풀어오기/",
           "score": null,
           "comment": ""
         }
