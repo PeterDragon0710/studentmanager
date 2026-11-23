@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-23T10:01:26.958Z",
+  "updatedAt": "2026-11-23T12:58:45.351Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -2545,6 +2545,12 @@
           "date": "2026-11-20",
           "content": "시험대비교재 4회차",
           "score": "90",
+          "comment": "확률 일부문제 안풀어져있음"
+        },
+        {
+          "date": "2026-11-23",
+          "content": "프린트",
+          "score": null,
           "comment": ""
         }
       ]
