@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-23T06:43:35.220Z",
+  "updatedAt": "2026-11-23T08:02:17.598Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -475,7 +475,7 @@
           "date": "2026-11-20",
           "content": "4.2.2 마무리, 4.2.1 다시풀기, 오답유사",
           "score": "90",
-          "comment": ""
+          "comment": "채점안되어있음"
         }
       ]
     },
@@ -657,7 +657,7 @@
         {
           "date": "2026-11-20",
           "content": "시험대비교재 3,4 단원 3회차",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -846,7 +846,7 @@
         {
           "date": "2026-11-20",
           "content": "시험대비교재 3,4 단원 3회차",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
