@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-24T11:48:29.320Z",
+  "updatedAt": "2026-11-24T12:59:13.069Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -2669,6 +2669,12 @@
           "content": "3단원 오답 정리, 개념교재 피타고라스 다 풀어오기",
           "score": null,
           "comment": ""
+        },
+        {
+          "date": "2026-11-24",
+          "content": "피타고라스 부분 L1교재 문제 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2768,6 +2774,12 @@
           "content": "시험대비교재 4회차",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-24",
+          "content": "시험대비교재 5회차",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2793,6 +2805,12 @@
         {
           "date": "2026-11-17",
           "content": "과제 교재 삼각형의 닮음 중단원문제, 삼각형의 무게중심 유형문제까지 풀어오기",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-24",
+          "content": "중단원마무리 26문제 풀어오기",
           "score": null,
           "comment": ""
         }
