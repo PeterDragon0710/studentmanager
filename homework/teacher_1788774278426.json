@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-25T08:02:36.743Z",
+  "updatedAt": "2026-11-25T08:03:36.703Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -188,6 +188,12 @@
           "content": "3회차 끝내기/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-23",
+          "content": "4회차 5개 풀어오기",
+          "score": "60",
+          "comment": "채점 안됨"
         }
       ]
     },
@@ -375,6 +381,12 @@
         {
           "date": "2026-11-20",
           "content": "3회차 끝내기/",
+          "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-23",
+          "content": "4회차 5개 풀어오기",
           "score": "100",
           "comment": ""
         }
@@ -571,6 +583,12 @@
           "date": "2026-11-20",
           "content": "3회차 끝내기/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-23",
+          "content": "4회차 5개 풀어오기",
+          "score": "80",
           "comment": ""
         }
       ]
