@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-24T09:41:52.330Z",
+  "updatedAt": "2026-11-25T08:02:36.743Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -186,7 +186,7 @@
         {
           "date": "2026-11-20",
           "content": "3회차 끝내기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -375,7 +375,7 @@
         {
           "date": "2026-11-20",
           "content": "3회차 끝내기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -570,7 +570,7 @@
         {
           "date": "2026-11-20",
           "content": "3회차 끝내기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -753,7 +753,7 @@
         {
           "date": "2026-11-20",
           "content": "3회차 끝내기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -894,7 +894,7 @@
         {
           "date": "2026-11-20",
           "content": "3회차 끝내기/",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
