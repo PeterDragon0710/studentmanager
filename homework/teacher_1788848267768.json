@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-11-25T08:19:20.933Z",
+  "updatedAt": "2026-11-25T08:20:58.893Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1724,6 +1724,12 @@
           "content": "1~6단원 그린챌린지 10개 / 월말평가대비2",
           "score": "80",
           "comment": "프린트 미지참."
+        },
+        {
+          "date": "2026-11-25",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1912,6 +1918,12 @@
           "date": "2026-11-23",
           "content": "1.1.1~1.1.2 (2차학습) / 월말평가대비2",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-25",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
           "comment": ""
         }
       ]
@@ -2108,6 +2120,12 @@
           "content": "과제프린트(그린챌린지) / 월말평가대비2",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-25",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2297,6 +2315,12 @@
           "content": "3.1.1~3.1.2 (1차, 2차학습) / 월말평가대비2",
           "score": "80",
           "comment": "오답유사 2군데 미완료."
+        },
+        {
+          "date": "2026-11-25",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2486,6 +2510,12 @@
           "content": "2단원 그린챌린지 10개 / 월말평가대비2",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-25",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2668,6 +2698,12 @@
           "date": "2026-11-23",
           "content": "1.1.1~1.1.2 (2차학습) / 월말평가대비2",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-25",
+          "content": "TOMA 연습2회 프린트",
+          "score": null,
           "comment": ""
         }
       ]
