@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-25T08:04:37.349Z",
+  "updatedAt": "2026-11-25T09:51:51.202Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -194,6 +194,12 @@
           "content": "4회차 5개 풀어오기",
           "score": "60",
           "comment": "채점 안됨"
+        },
+        {
+          "date": "2026-11-25",
+          "content": "4회차 전부",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -388,6 +394,12 @@
           "date": "2026-11-23",
           "content": "4회차 5개 풀어오기",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-25",
+          "content": "4회차 전부",
+          "score": null,
           "comment": ""
         }
       ]
@@ -590,6 +602,12 @@
           "content": "4회차 5개 풀어오기",
           "score": "80",
           "comment": "급하게 함."
+        },
+        {
+          "date": "2026-11-25",
+          "content": "4회차 전부",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -779,6 +797,12 @@
           "content": "4회차 5개 풀어오기",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-25",
+          "content": "4회차 전부",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -926,6 +950,12 @@
           "content": "4회차 5개 풀어오기",
           "score": "60",
           "comment": "과제 밀리는 중."
+        },
+        {
+          "date": "2026-11-25",
+          "content": "4회차 전부",
+          "score": null,
+          "comment": ""
         }
       ]
     },
