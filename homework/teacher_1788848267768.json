@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-11-24T12:53:51.590Z",
+  "updatedAt": "2026-11-25T07:15:39.869Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -192,7 +192,7 @@
         {
           "date": "2026-11-23",
           "content": "2.1.3~2.1.4 (1차학습) / TOMA연습1회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -381,7 +381,7 @@
         {
           "date": "2026-11-23",
           "content": "6단원 그린챌린지 전체 / TOMA 연습1회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -564,7 +564,7 @@
         {
           "date": "2026-11-23",
           "content": "6.2.1 (2차학습) / TOMA 연습1회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -753,7 +753,7 @@
         {
           "date": "2026-11-23",
           "content": "6.2.1 (2차학습) / TOMA 연습1회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
@@ -936,8 +936,8 @@
         {
           "date": "2026-11-23",
           "content": "1.1.3 (필수예제 오답유사)  / 1.1.2~1.1.3 (1차학습) / TOMA 연습1회",
-          "score": null,
-          "comment": ""
+          "score": "70",
+          "comment": "과제 일부 미완료."
         }
       ]
     },
@@ -1314,7 +1314,7 @@
         {
           "date": "2026-11-23",
           "content": "6단원 그린챌린지 전체(직접 도전) / TOMA 연습1회",
-          "score": null,
+          "score": "100",
           "comment": ""
         }
       ]
