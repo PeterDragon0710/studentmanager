@@ -1,6 +1,6 @@
 {
   "teacherName": "장선영",
-  "updatedAt": "2026-11-26T06:21:49.221Z",
+  "updatedAt": "2026-11-26T06:23:47.181Z",
   "students": [
     {
       "linkId": "stu_8qsnztwfmttur04b",
@@ -255,7 +255,7 @@
         {
           "date": "2026-11-24",
           "content": "<진도>\n5-1 L3 6.3.1 필수까지\n\n<과제>\n제9회 TOMA 수학경시대회 - 초4(2026.11) 연습2회",
-          "score": null,
+          "score": "100",
           "comment": ""
         },
         {
