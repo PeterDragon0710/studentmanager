@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-26T05:04:06.072Z",
+  "updatedAt": "2026-11-26T07:31:04.500Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -1031,6 +1031,12 @@
           "content": "TOMA 2차대비",
           "score": "90",
           "comment": ""
+        },
+        {
+          "date": "2026-11-26",
+          "content": "5.1.3 1차학습~2차학습, 5.2.1 개념학습",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1165,6 +1171,12 @@
           "date": "2026-11-24",
           "content": "TOMA 2차대비",
           "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-26",
+          "content": "2.1.2 1차학습~2차학습",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1301,6 +1313,12 @@
           "content": "TOMA 2차대비",
           "score": "90",
           "comment": ""
+        },
+        {
+          "date": "2026-11-26",
+          "content": "3.1.3 2차학습, 3.2.1, 3.2.2 개념학습",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1351,6 +1369,12 @@
           "date": "2026-11-24",
           "content": "TOMA 2차대비",
           "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-26",
+          "content": "5.2.2 개념학습, 개념유형",
+          "score": null,
           "comment": ""
         }
       ]
@@ -1487,6 +1511,12 @@
           "content": "TOMA 2차대비",
           "score": "90",
           "comment": ""
+        },
+        {
+          "date": "2026-11-26",
+          "content": "3.2.2 1차학습~2차학습, 3.2.3 필수예제~2차학습",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1621,6 +1651,12 @@
           "date": "2026-11-24",
           "content": "TOMA 2차대비",
           "score": "90",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-26",
+          "content": "2.1.2 2차학습, 2.2.1 필수예제~1차학습",
+          "score": null,
           "comment": ""
         }
       ]
