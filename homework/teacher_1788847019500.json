@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-26T09:55:13.476Z",
+  "updatedAt": "2026-11-26T11:02:31.715Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -2769,7 +2769,7 @@
         {
           "date": "2026-11-24",
           "content": "피타고라스 부분 L1교재 문제 풀어오기",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -2874,7 +2874,7 @@
         {
           "date": "2026-11-24",
           "content": "시험대비교재 5회차",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
@@ -2907,7 +2907,7 @@
         {
           "date": "2026-11-24",
           "content": "중단원마무리 26문제 풀어오기",
-          "score": null,
+          "score": "90",
           "comment": ""
         }
       ]
