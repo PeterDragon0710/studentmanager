@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-27T08:03:00.747Z",
+  "updatedAt": "2026-11-27T09:38:34.644Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -199,6 +199,12 @@
           "date": "2026-11-25",
           "content": "4회차 전부",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "5회차 5개/실전 나머지 풀어오기",
+          "score": null,
           "comment": ""
         }
       ]
@@ -400,6 +406,12 @@
           "date": "2026-11-25",
           "content": "4회차 전부",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "5회차 5개/실전 나머지 풀어오기",
+          "score": null,
           "comment": ""
         }
       ]
@@ -608,6 +620,12 @@
           "content": "4회차 전부",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "5회차 5개/실전 나머지 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -803,6 +821,12 @@
           "content": "4회차 전부",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "5회차 5개/실전 나머지 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -956,6 +980,12 @@
           "content": "4회차 전부",
           "score": "60",
           "comment": "뒷부분 안되어있음."
+        },
+        {
+          "date": "2026-11-27",
+          "content": "5회차 5개/실전 나머지 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
