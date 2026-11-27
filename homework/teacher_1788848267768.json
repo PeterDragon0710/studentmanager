@@ -1,6 +1,6 @@
 {
   "teacherName": "안재우",
-  "updatedAt": "2026-11-27T08:49:15.908Z",
+  "updatedAt": "2026-11-27T09:41:24.589Z",
   "students": [
     {
       "linkId": "stu_lpymedwcmttq751b",
@@ -1778,6 +1778,12 @@
           "content": "TOMA 연습2회 프린트",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "(1-1) 1.1.1~1.1.2 개념영상,개념유형",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1972,6 +1978,12 @@
           "date": "2026-11-25",
           "content": "TOMA 연습2회 프린트",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "1.2.1 (개념영상,개념유형) - 영상5개 있음",
+          "score": null,
           "comment": ""
         }
       ]
@@ -2174,6 +2186,12 @@
           "content": "TOMA 연습2회 프린트",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "과제프린트 (1~6단원 복습)",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2368,6 +2386,12 @@
           "date": "2026-11-25",
           "content": "TOMA 연습2회 프린트",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "과제프린트(3.1.1~3.1.2 복습) / 3.1.3 개념영상,개념유형",
+          "score": null,
           "comment": ""
         }
       ]
@@ -2564,6 +2588,12 @@
           "content": "TOMA 연습2회 프린트",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "3.1.1~3.1.2 개념영상,개념유형",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -2752,6 +2782,12 @@
           "date": "2026-11-25",
           "content": "TOMA 연습2회 프린트",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-27",
+          "content": "1.2.1 (2차학습) / 1.2.2 개념영상(다시시청)",
+          "score": null,
           "comment": ""
         }
       ]
