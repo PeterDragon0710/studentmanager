@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-27T12:20:13.412Z",
+  "updatedAt": "2026-11-27T12:51:50.723Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -2744,6 +2744,12 @@
           "content": "프린트",
           "score": "70",
           "comment": "미지참"
+        },
+        {
+          "date": "2026-11-27",
+          "content": "확률 프린트 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
