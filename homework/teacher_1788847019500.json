@@ -1,6 +1,6 @@
 {
   "teacherName": "이찬희",
-  "updatedAt": "2026-11-27T10:00:40.194Z",
+  "updatedAt": "2026-11-27T12:20:13.412Z",
   "students": [
     {
       "linkId": "stu_11k7s7g2mtwj0303",
@@ -2742,7 +2742,7 @@
         {
           "date": "2026-11-23",
           "content": "프린트",
-          "score": "60",
+          "score": "70",
           "comment": "미지참"
         }
       ]
