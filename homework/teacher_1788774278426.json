@@ -1,6 +1,6 @@
 {
   "teacherName": "정용수",
-  "updatedAt": "2026-11-28T00:58:16.816Z",
+  "updatedAt": "2026-11-28T01:53:46.465Z",
   "students": [
     {
       "linkId": "stu_budn3pjimttn4ocr",
@@ -1151,6 +1151,12 @@
           "content": "4회차 5개 풀어오기/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-28",
+          "content": "4회차 끝까지 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1322,6 +1328,12 @@
           "content": "4회차 5개 풀어오기/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-28",
+          "content": "4회차 끝까지 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1487,6 +1499,12 @@
           "content": "4회차 5개 풀어오기/",
           "score": "50",
           "comment": "채점안됨"
+        },
+        {
+          "date": "2026-11-28",
+          "content": "4회차 끝까지 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1664,6 +1682,12 @@
           "content": "4회차 5개 풀어오기/",
           "score": "100",
           "comment": ""
+        },
+        {
+          "date": "2026-11-28",
+          "content": "4회차 끝까지 풀어오기",
+          "score": null,
+          "comment": ""
         }
       ]
     },
@@ -1840,6 +1864,12 @@
           "date": "2026-11-26",
           "content": "4회차 5개 풀어오기/",
           "score": "100",
+          "comment": ""
+        },
+        {
+          "date": "2026-11-28",
+          "content": "4회차 끝까지 풀어오기",
+          "score": null,
           "comment": ""
         }
       ]
